@@ -31,6 +31,24 @@
 
   <body>
 
+
+    <header class="blog-header-image-wrapper">
+       <a class="blog-header-image" href="{{ .Site.BaseURL }}" rel="home"><img src="/images/bbtnp-title.png" alt="{{ .Site.Title | safeHTML }}"></a>
+      <!--<div class="container">
+        <h1 class="blog-title"><a href="{{ .Site.BaseURL }}" rel="home">{{ .Site.Title | safeHTML }}</a></h1>
+        {{ if .Site.Params.description }}<p class="lead blog-description">{{ .Site.Params.description | markdownify }}</p>{{ end }}
+      </div>-->
+    </header>
+
+    <header class="blog-header">
+      <div class="container">
+        <!--<h1 class="blog-title"><a href="{{ .Site.BaseURL }}" rel="home">{{ .Site.Title | safeHTML }}</a></h1>-->
+        {{ if .Site.Params.description }}<p class="lead blog-description">{{ .Site.Params.description | markdownify }}</p>{{ end }}
+      </div>
+    </header>
+
+
+
     <div class="blog-masthead">
       <div class="container">
         <nav class="nav blog-nav">
@@ -51,12 +69,7 @@
       </div>
     </div>
 
-    <header class="blog-header">
-      <div class="container">
-        <h1 class="blog-title"><a href="{{ .Site.BaseURL }}" rel="home">{{ .Site.Title | safeHTML }}</a></h1>
-        {{ if .Site.Params.description }}<p class="lead blog-description">{{ .Site.Params.description | markdownify }}</p>{{ end }}
-      </div>
-    </header>
+
 
     <div class="container">
       <div class="row">
@@ -78,7 +91,7 @@
       {{ if .Site.Copyright }}
       {{ .Site.Copyright | markdownify }}
       {{ else }}
-      Blog template created by <a href="https://twitter.com/mdo">@mdo</a>, ported to Hugo by <a href='https://twitter.com/mralanorth'>@mralanorth</a>.
+      Blog template created by <a href="https://twitter.com/mdo">@mdo</a>, ported to Hugo by <a href='https://twitter.com/mralanorth'>@mralanorth</a>, modified by <a href="http://oscilabot.com">ocsilabot</a>.
       {{ end }}
       </p>
       <p>
