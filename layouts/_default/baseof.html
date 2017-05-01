@@ -27,6 +27,10 @@
     {{ end }}
 
     {{ partial "head-custom.html" . }}
+    
+    {{ "<!-- bbtnp CSS overrides -->" | safeHTML }}
+    <link href="{{ .Site.BaseURL }}css/bbtnp.css" rel="stylesheet">
+
   </head>
 
   <body>

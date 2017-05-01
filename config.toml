@@ -3,7 +3,7 @@
 baseurl = "https://birthed-by-the-necrophage.github.io/"
 languageCode = "en-us"
 title = "Birthed by the Necrophage"
-theme = "bbtnp"
+theme = "hugo-theme-bootstrap4-blog"
 # number of posts to show on home/category/tag pages (Default: 10)
 paginate = 5
 # optionally override the site's footer with custom copyright text
