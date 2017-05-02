@@ -1,11 +1,12 @@
 +++
 date = "2017-04-21T19:40:11-04:00"
 title = "Campaign Map"
-+++
+type = "page"
 
++++
 [![Campaign Map](/images/campaign-map.png)](/images/campaign-map.png)
 
-<a href="http://www-personal.umich.edu/~tobiaslw/campaign-map-hd.html" target="_blank">Big Google maps version</a>
+<a href="http://www-personal.umich.edu/~tobiaslw/campaign-map-hd.html" target="_blank">Google Maps version</a>
 
 ## Visited Hexes of Note
 
