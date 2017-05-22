@@ -37,7 +37,7 @@ Peasant-henge. Spells cast inside the henge will have their effects doubled.
 
 Pagoda city. Six streets of identical buildings (found to be empty facades) radiate from a central tower with a single entrance. The party makes two excursions into the tower. 
 
-![Campaign Map](/forestryio/images/area-10.jpg)
+![Campaign Map](/uploads/area-10.jpg)
 
 On the first, they find themselves locked in an “entrance trap” room and escape by means of Flynn’s *knock* spell. 14 Eldish warriors are waiting on the other side of the door, but are dispatched with the help of Ovek’s new area effect blast power. Shortly later, more doors auto-lock, and Marvus is trapped in a hallway. After plasma-torching the hallway door open, the party retreats to take a short rest.
 
