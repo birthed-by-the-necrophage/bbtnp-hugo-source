@@ -3,7 +3,7 @@ date = "2017-04-21T19:40:11-04:00"
 title = "Session 10 (maybe)"
 
 +++
-*Fresh off their successful home invasion of the* EMERALD ENCHANTER*, intrepid Thulian adventurers Flynn the Fortunate, Marvus the Wolf, and Ovek the Tall, along with their loyal half-beast henchman Grimbok, head into the* JUNGLE OF BURA *for some routine archaeological looting. Unfortunately, the targeted structure --ruins of the elvish* LAPIS OBSERVATORY*-- is is found to be currently occupied by the* ELD*, and the party is sucked into an* INTERDIMENSIONAL RIFT *(It was Ovek’s fault.)*
+*Fresh off their successful home invasion of the* EMERALD ENCHANTER*, intrepid Thulian adventurers Flynn the Fortunate, Marvus the Wolf, and Ovek the Tall, along with their loyal half-beast henchman Grimbok, head into the* JUNGLE OF BURA *for some routine archaeological looting. Unfortunately, the targeted structure --ruins of the elvish* LAPIS OBSERVATORY*-- is found to be currently occupied by the* ELD*, and the party is sucked into an* INTERDIMENSIONAL RIFT *(It was Ovek’s fault.)*
 
 <!--more-->
 
