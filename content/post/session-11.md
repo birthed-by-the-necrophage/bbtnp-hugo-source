@@ -8,11 +8,13 @@ tags = []
 title = "Session 11"
 
 +++
-Session Date: 4/22/2017
+*Session Date: 4/22/2017*
 
 ![Area 11 Map](/uploads/vat-complex-iso.png)
 
 The party has decided to ascend an Eldish tower and commandeer a bubble car, guarded by a single Eldish warrior. This turns out to be more difficult than it looks.
+
+<!--more-->
 
 The tower has no visible exterior entrances or windows, necessitating an exterior ascension. Ovek initially plans to psionically fly to the top to secure a rope, but instead skimps on the PSPs and *bestial forms* some climbing hooks out of his hands and feet.
 
@@ -39,4 +41,4 @@ Meanwhile, Ovek regains consciousness and stabilizes Flynn. With the entire part
 
 ### Loot Obtained
 
-Bubble car! 
+Bubble car!
