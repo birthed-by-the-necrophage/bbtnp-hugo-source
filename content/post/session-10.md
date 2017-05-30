@@ -3,8 +3,9 @@ date = "2017-04-21T19:40:11-04:00"
 title = "Session 10 (maybe)"
 
 +++
-*Fresh off their successful home invasion of the* EMERALD ENCHANTER*, intrepid Thulian adventurers Flynn the Fortunate, Marvus the Wolf, and Ovek the Tall, along with their loyal half-beast henchman Grimbok, head into the* JUNGLE OF BURA *for some routine archaeological looting. Unfortunately, the targeted structure --ruins of the elvish* LAPIS OBSERVATORY*-- is found to be currently occupied by the* ELD*, and the party is sucked into an* INTERDIMENSIONAL RIFT *(It was Ovek’s fault.)*
+*Session Date: 3/25/2017*
 
+*Fresh off their successful home invasion of the*<span style="font-size: 1rem;"> EMERALD ENCHANTER*, intrepid Thulian adventurers Flynn the Fortunate, Marvus the Wolf, and Ovek the Tall, along with their loyal half-beast henchman Grimbok, head into the* JUNGLE OF BURA </span>*for some routine archaeological looting. Unfortunately, the targeted structure --ruins of the elvish*<span style="font-size: 1rem;"> LAPIS OBSERVATORY*-- is found to be currently occupied by the* ELD*, and the party is sucked into an* INTERDIMENSIONAL RIFT </span>*(It was Ovek’s fault.)*
 <!--more-->
 
 ## Now
@@ -35,28 +36,32 @@ Peasant-henge. Spells cast inside the henge will have their effects doubled.
 
 ### Area 10
 
-Pagoda city. Six streets of identical buildings (found to be empty facades) radiate from a central tower with a single entrance. The party makes two excursions into the tower. 
+Pagoda city. Six streets of identical buildings (found to be empty facades) radiate from a central tower with a single entrance. The party makes two excursions into the tower.
 
 ![Area 10 Map](/uploads/area-10-session-10-iso.png)
 
 On the first, they find themselves locked in an “entrance trap” room (2) and escape by means of Flynn’s *knock* spell. 14 Eldish warriors are waiting on the other side of the door (1,7) but are dispatched with the help of Ovek’s new area effect blast power. Shortly later, more doors auto-lock, and Marvus is trapped in a hallway (connecting 1 and 3.) After plasma-torching the hallway door open, the party retreats to take a short rest.
 
-On the second excursion, it’s found that every interior door seems to be internally barred. The party can only advance by means of *knock* or plasma torch, both of which are soon exhausted. Several Eldish items are grabbed from a supply locker (4) before another retreat, and Flynn is struck with a strange lawful urge to tidy the room. 
+On the second excursion, it’s found that every interior door seems to be internally barred. The party can only advance by means of *knock* or plasma torch, both of which are soon exhausted. Several Eldish items are grabbed from a supply locker (4) before another retreat, and Flynn is struck with a strange lawful urge to tidy the room.
 
 ### Area 11
 
-A complex consisting of a bunker-like building, three silos, and a tower with a bubble car parked on the roof. 
+A complex consisting of a bunker-like building, three silos, and a tower with a bubble car parked on the roof.
 
 Marvus immediately suggests stealing the bubble car. A guard on the tower roof spots the party as they begin their approach...
 
-## Foes Vanquished 
+## Foes Vanquished
 
 * 14 Eldish Warriors
+
 * 4 steel doors
 
 ## Loot Obtained
 
 * Wand of Cure Wounds
+
 * Eldish polearm
+
 * Eldish self-loading heavy crossbow
+
 * 4 Eldish psychic grenades of some sort
