@@ -2,7 +2,6 @@
 categories = []
 date = "2017-05-30T18:02:25+00:00"
 description = ""
-draft = true
 images = []
 tags = []
 title = "Session 11"
