@@ -53,15 +53,11 @@ Marvus immediately suggests stealing the bubble car. A guard on the tower roof s
 ## Foes Vanquished
 
 * 14 Eldish Warriors
-
 * 4 steel doors
 
 ## Loot Obtained
 
 * Wand of Cure Wounds
-
 * Eldish polearm
-
 * Eldish self-loading heavy crossbow
-
 * 4 Eldish psychic grenades of some sort
