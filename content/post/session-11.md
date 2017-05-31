@@ -39,11 +39,11 @@ Marvus regains his weapon and exhibits his signature pole-arm mastery as he blud
 
 Meanwhile, Ovek regains consciousness and stabilizes Flynn. With the entire party in the bubble car, most of them resource depleted and near death, and another Eldish contingent on it's way from the tower, Ovek and Marvus work together to make some rudimentary sense of the bubble car controls. It lurches jerkily into the air in with no time to spare...
 
-### Foes Vanquished
+## Foes Vanquished
 
 * 5 Eldish Warriors
 * 1 Eldish Psychonaut Officer
 
-### Loot Obtained
+## Loot Obtained
 
 * Bubble car!
