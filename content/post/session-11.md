@@ -29,7 +29,7 @@ Ovek reaches the roof and attempts to mind-trick an Eld into attacking it's comr
 
 Ovek hastily descends and the party flees… but in a cruel (or maybe karmic) twist of fate, they are soon overtaken by the very bubble car they were attempting to steal. Which turns out to have a *fireball* cannon.
 
-Flynn tosses one of the mysterious Eldish grenades at the bubble car, but it has no noticeable effect, and it responds with a *fireball* blast that easily dispatches both Flynn and Ovek. The bubble car lands; it's Eldish occupants emerge, ordering surrender. Marvus drops his new Eldish pole-arm, seeing no alternative.
+Flynn tosses one of the mysterious Eldish grenades at the bubble car, but it has no noticeable effect, and the car responds with a *fireball* blast that easily dispatches both Flynn and Ovek. The bubble car lands; it's Eldish occupants emerge, ordering surrender. Marvus drops his new Eldish pole-arm, seeing no alternative.
 
 ## Unexpected Success
 
