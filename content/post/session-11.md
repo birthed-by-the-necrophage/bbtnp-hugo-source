@@ -17,7 +17,7 @@ The party has decided to ascend an Eldish tower and commandeer a bubble car park
 
 ## Tower Assault 
 
-The tower has no visible exterior entrances or windows, necessitating an exterior ascension. Ovek initially plans to psionically fly to the top to secure a rope, but instead skimps on the PSPs and manifests *bestial form*, extruding climbing hooks out of his hands and feet. (Which, if you think about it, is kind of gross.)
+The tower has no visible exterior entrances or windows, necessitating an exterior ascension. Ovek initially plans to psionically fly to the top and secure a rope, but instead skimps on the PSPs and manifests *bestial form*, extruding climbing hooks out of his hands and feet. (Which, if you think about it, is kind of gross.)
 
 Flynn and Marvus lob some projectiles --magic and not, respectively-- at the rooftop guard, but he rudely fails to die and instead retreats to sound the alarm. The roof is soon swarming with eight Eldish warriors led by an Eldish psychonaut officer.
 
@@ -33,7 +33,7 @@ Flynn tosses one of the mysterious Eldish grenades at the bubble car, but it has
 
 ## Unexpected Success
 
-At this point, Grimbok uncharacteristically takes initiative action and rage attacks the officer. He is quickly incapacitated by a psychic response, but this was all that was needed to spur Marvus into similar action.
+At this point, Grimbok uncharacteristically takes the initiative and rage attacks the officer. He is quickly incapacitated by a psychic response, but this was all that was needed to spur Marvus into similar action.
 
 Marvus regains his weapon and exhibits his signature pole-arm mastery as he bludgeons and pierces his way through the Eld, killing several --including the officer-- almost before they realize what is happening. The rest fall as Marvus enters and secures the bubble car.
 
