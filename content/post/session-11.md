@@ -29,13 +29,13 @@ Ovek reaches the roof and attempts to mind-trick an Eld into attacking it's comr
 
 Ovek hastily descends and the party flees… but in a cruel (or maybe karmic) twist of fate, they are soon overtaken by the very bubble car they were attempting to steal. Which turns out to have a *fireball* cannon.
 
-The arial *fireball* blast easily dispatches both Flynn and Ovek. The bubble car lands; it's Eldish occupants emerge, ordering surrender. Marvus drops his new Eldish polearm, seeing no alternative.
+Flynn tosses one of the mysterious Eldish grenades at the bubble car, but it has no noticeable effect, and it responds with a *fireball* blast that easily dispatches both Flynn and Ovek. The bubble car lands; it's Eldish occupants emerge, ordering surrender. Marvus drops his new Eldish pole-arm, seeing no alternative.
 
-## Success, snatched from the jaws of a TPK
+## Unexpected Success
 
 At this point, Grimbok uncharacteristically takes initiative action and rage attacks the officer. He is quickly incapacitated by a psychic response, but this was all that was needed to spur Marvus into similar action.
 
-Marvus regains his weapon and exhibits his signature polearm mastery as he bludgeons and pierces his way through the Eld, killing several --including the officer-- almost before they realize what is happening. The rest fall as Marvus enters and secures the bubble car.
+Marvus regains his weapon and exhibits his signature pole-arm mastery as he bludgeons and pierces his way through the Eld, killing several --including the officer-- almost before they realize what is happening. The rest fall as Marvus enters and secures the bubble car.
 
 Meanwhile, Ovek regains consciousness and stabilizes Flynn. With the entire party in the bubble car, most of them resource depleted and near death, and another Eldish contingent on it's way from the tower, Ovek and Marvus work together to make some rudimentary sense of the bubble car controls. It lurches jerkily into the air in with no time to spare...
 
