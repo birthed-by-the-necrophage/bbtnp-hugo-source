@@ -11,27 +11,33 @@ title = "Session 11"
 
 ![Area 11 Map](/uploads/vat-complex-iso.png)
 
-The party has decided to ascend an Eldish tower and commandeer a bubble car, guarded by a single Eldish warrior. This turns out to be more difficult than it looks.
+The party has decided to ascend an Eldish tower and commandeer a bubble car parked on it's roof. A presumably easy task, considering the single guard.
 
 <!--more-->
 
-The tower has no visible exterior entrances or windows, necessitating an exterior ascension. Ovek initially plans to psionically fly to the top to secure a rope, but instead skimps on the PSPs and *bestial forms* some climbing hooks out of his hands and feet.
+## Tower Assault 
 
-Flynn and Marvus lob some projectiles (magic and not, respectively,) at the guard, but he fails to die, instead retreating to sound the alarm. The roof is soon swarming with eight Eldish warriors led by an Eldish psychonaut officer.
+The tower has no visible exterior entrances or windows, necessitating an exterior ascension. Ovek initially plans to psionically fly to the top to secure a rope, but instead skimps on the PSPs and manifests *bestial form*, extruding climbing hooks out of his hands and feet. (Which, if you think about it, is kind of gross.)
 
-As Ovek climbs, the Eld rain down crossbow bolts and psychic blasts. Flynn manages to *fire bolt* an Eldish face, and traps several others in a well placed *web*. Marvus and Grimbok ponder their lack of non-melee abilities.
+Flynn and Marvus lob some projectiles --magic and not, respectively-- at the rooftop guard, but he rudely fails to die and instead retreats to sound the alarm. The roof is soon swarming with eight Eldish warriors led by an Eldish psychonaut officer.
 
-Ovek reaches the roof and attempts to mind-trick an Eld into attacking it’s comrades. The attempt fails and Ovek finds himself, with two remaining hitpoints, facing nine mostly healthy Eld all by himself. He detonates the webbing as a parting shot, but it’s become clear that retreat is the only option.
+As Ovek climbs, the Eld drain the party's hitpoints in a rain of crossbow bolts and psychic blasts. Flynn manages to *fire bolt* an Eldish face, and traps several others in a well placed *web*. Marvus and Grimbok ponder their lack of non-melee abilities.
 
-Ovek hastily descends and the party flees… but in a cruel (or maybe karmic?) twist of fate, they are soon overtaken by the very bubble car they were attempting to steal. Which turns out to have some sort of *fireball* cannon.
+## Retreat
 
-The arial *fireball* blast easily dispatches both Flynn and Ovek. The bubble car lands; it's Eldish occupants emerge, ordering surrender. Marvus drops his polearm, seeing no alternative.
+Ovek reaches the roof and attempts to mind-trick an Eld into attacking it's comrades. The attempt fails and Ovek finds himself, with two remaining hitpoints, facing nine Eld all by himself. He detonates the webbing as a parting shot, but it’s become clear that retreat is the only option.
 
-At this point, Grimbok DMPCs into uncharacteristic action and attacks the officer. He is quickly incapacitated by a psychic response, but this was all that was needed to spur Marvus into similar action.
+Ovek hastily descends and the party flees… but in a cruel (or maybe karmic) twist of fate, they are soon overtaken by the very bubble car they were attempting to steal. Which turns out to have a *fireball* cannon.
 
-Marvus regains his weapon and exhibits much polearm mastery as he bludgeons and pierces his way through the Eld, killing several (including the officer) before they realize what is happening. The rest fall as Marvus enters and secures the bubble car.
+The arial *fireball* blast easily dispatches both Flynn and Ovek. The bubble car lands; it's Eldish occupants emerge, ordering surrender. Marvus drops his new Eldish polearm, seeing no alternative.
 
-Meanwhile, Ovek regains consciousness and stabilizes Flynn. With the entire party in the bubble car and another Eldish contingent on it's way from the tower, Ovek and Marvus work together to make some rudimentary sense of the bubble car controls. It lurches into the air in the nick of time.
+## Success, snatched from the jaws of a TPK
+
+At this point, Grimbok uncharacteristically takes initiative action and rage attacks the officer. He is quickly incapacitated by a psychic response, but this was all that was needed to spur Marvus into similar action.
+
+Marvus regains his weapon and exhibits his signature polearm mastery as he bludgeons and pierces his way through the Eld, killing several --including the officer-- almost before they realize what is happening. The rest fall as Marvus enters and secures the bubble car.
+
+Meanwhile, Ovek regains consciousness and stabilizes Flynn. With the entire party in the bubble car, most of them resource depleted and near death, and another Eldish contingent on it's way from the tower, Ovek and Marvus work together to make some rudimentary sense of the bubble car controls. It lurches jerkily into the air in with no time to spare...
 
 ### Foes Vanquished
 
