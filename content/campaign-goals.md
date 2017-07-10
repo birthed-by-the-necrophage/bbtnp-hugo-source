@@ -7,13 +7,13 @@ tags = []
 title = "Campaign Goals"
 
 +++
-
-
 Stuff (besides killing monsters) that will earn XP. The entire party earns XP when a goal is achieved, even if the goal is linked to a specific character.
 
 ## Achieved!
 
-* Learn to pilot the bubble car (Ovek)
+* Session 12: Learn to pilot the bubble car (Ovek)
+
+* Session 12: Slay an Eld with his sword (Flynn)
 
 ## In Progress
 
@@ -34,8 +34,6 @@ Stuff (besides killing monsters) that will earn XP. The entire party earns XP wh
 * Teach Flynn to pilot the bubble car (Ovek)
 
 * Save the party from (needs clarification)(Marvus)
-
-* Slay an Eld with his sword (Flynn)
 
 * Effectively use his *fly* ability (Ovek)
 
