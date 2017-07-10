@@ -39,7 +39,7 @@ Stuff (besides killing monsters) that will earn XP. The entire party earns XP wh
 
 * Effectively use his *fly* ability (Ovek)
 
-* Find a *Foldable Boat* (Marvus?)
+* Find a *Foldable Boat*
 
 * Obtain wearable Eld ceramic platemail (Marvus)
 
