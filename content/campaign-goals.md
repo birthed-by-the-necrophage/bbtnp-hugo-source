@@ -7,13 +7,19 @@ tags = []
 title = "Campaign Goals"
 
 +++
-Stuff (besides killing monsters) that will earn XP.
+
+
+Stuff (besides killing monsters) that will earn XP. The entire party earns XP when a goal is achieved, even if the goal is linked to a specific character.
+
+## Achieved!
+
+* Learn to pilot the bubble car (Ovek)
+
+## In Progress
 
 * Return to civilization with as much loot as possible
 
 * Become an archmage (Flynn)
-
-* Learn to pilot the bubble car (Ovek)
 
 * Achieve divinity (Marvus)
 
