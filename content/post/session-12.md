@@ -12,13 +12,12 @@ _Session Date: 6/4/2017_
 
 Stuff that happened in Session 12:
 
-The party rushes away from a near TPK in it's newly aqquired bubble car. Well, first they have to figure out how it works. 
+The party figures out the basics of bubble car operation and flee the scene of the Session 11's near-TPK, heading northwest into the mists off the shore of thier original arival point (15.) 
 
-It has a maximun altitude of about 100ft from the nearest 
-Flynn notices both the bubble car and plasma welder seem to be "powered by the same mysterious liquid. When the plasma torch ran out of liquid, it stop workiong. The bubble car presumable worked the same way.
+The bubble car seems to have a maximum altitude of about 100ft from the ground, and Flynn notices that both the bubble car and plasma welder seem to be "powered" by the same mysterious liquid. When the plasma torch ran out of liquid, it stopped working. The bubble car presumably worked the same way.
 
-Figure out how to pilot bubble car
-Flynn notices both the bubble car and plasma welder use the same fuel
+After spending a long rest in the mist, healing and recaauterating in bubble car luxury, it's time for some more exploration. 
+
 Travel northwest into the mist over the water, long rest 
 Re-appear from the north, near the amber bathtub
 Land at dock island, kill guards
