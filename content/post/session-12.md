@@ -8,17 +8,17 @@ tags = []
 title = "Session 12"
 
 +++
-
-
 *Session Date: 6/4/2017*
 
-The party scrambles to learn the basics of bubble car operation and flees the scene of Session 11's near-TPK, heading northwest into the mists off the shore of their original cliff-top arrival point (Area 15.)
+The party scrambles to learn the basics of bubble car operation, fleeing the scene of Session 11's near-TPK and heading northwest into the mists (off the shore of Area 15.)
 
-The bubble car seems to have a maximum altitude of about 100ft from the ground, and Flynn notices that both the bubble car and plasma welder seem to be "powered" by the same mysterious liquid. When the plasma torch ran out of liquid, it stopped working. The bubble car presumably works the same way.
+The bubble car seems to have a maximum altitude of about 100ft, and Flynn notices that both the bubble car and plasma welder seem to be "powered" by the same mysterious liquid. When the plasma torch ran out of liquid, it stopped working. The bubble car presumably works the same way.
 
-After spending a long rest in the mist, healing and recuperating in bubble car luxury, it's time for some more exploration. Strangely, the party emerges from the mist above the Eld in the amber bath tub (Area 8,) some two and a half miles east of where they entered. Ovek posits that they must have drifted while hovering. Nobody makes much of it, and the group decides to fly over to the previously inaccessible island (Area 17) and check it out.
+After spending a long rest spent hovering in the mist, it's time for some more exploration. Strangely, the party emerges from the mist some two and a half miles east of where they entered (above Area 8.) Ovek posits that they must have drifted while hovering. Nobody makes much of it, and the group decides to fly over to the previously inaccessible island (Area 17) and check it out.
 
-The island contains:
+## Area 17
+
+This island contains:
 
 * Two Eld guards, wich serve as test subjects for the bubble car's *fireball* ability. Turns out *fireballs* use a lot of fuel.
 
