@@ -8,17 +8,35 @@ tags = []
 title = "Session 12"
 
 +++
-_Session Date: 6/4/2017_
 
-Stuff that happened in Session 12:
 
-The party figures out the basics of bubble car operation and flee the scene of the Session 11's near-TPK, heading northwest into the mists off the shore of thier original arival point (15.) 
+*Session Date: 6/4/2017*
 
-The bubble car seems to have a maximum altitude of about 100ft from the ground, and Flynn notices that both the bubble car and plasma welder seem to be "powered" by the same mysterious liquid. When the plasma torch ran out of liquid, it stopped working. The bubble car presumably worked the same way.
+The party scrambles to learn the basics of bubble car operation and flees the scene of Session 11's near-TPK, heading northwest into the mists off the shore of their original cliff-top arrival point (Area 15.)
 
-After spending a long rest in the mist, healing and recaauterating in bubble car luxury, it's time for some more exploration. 
+The bubble car seems to have a maximum altitude of about 100ft from the ground, and Flynn notices that both the bubble car and plasma welder seem to be "powered" by the same mysterious liquid. When the plasma torch ran out of liquid, it stopped working. The bubble car presumably works the same way.
 
-Travel northwest into the mist over the water, long rest 
+After spending a long rest in the mist, healing and recuperating in bubble car luxury, it's time for some more exploration. Strangely, the party emerges from the mist above the Eld in the amber bath tub (Area 8,) some two and a half miles east of where they entered. Ovek posits that they must have drifted while hovering. Nobody makes much of it, and the group decides to fly over to the previously inaccessible island (Area 17) and check it out.
+
+The island contains:
+
+* Two Eld guards, wich serve as test subjects for the bubble car's *fireball* ability. Turns out *fireballs* use a lot of fuel.
+
+* A utility building with nothing interesting inside.
+
+* A large fuel storage tank, which the party uses to refill both the bubble car and the plasma torch.
+
+* A dock with two small metal skiffs of a design that looks similar to the bubble car, and with similar controls. One of the skiffs has a nautical chart showing safe approach routes for an island about five miles wide.
+
+* Also docked is a galley that appears to be of standard Thulean make and design. It's empty, but shows signs that a bloody struggle took place on its deck.
+
+Next, the party travels further east along the coast, which soon curves to the south, and the party follows a long, empty black-sand beach (Areas 1 - 2) until they see a strange sight to the west (Area 3), a floating, oddly shaped structure:
+
+![Area 11 Map](/uploads/monument-five-luka-rejec.png)
+
+*Illustration by Luka Rejec for Hydra Cooperative*
+
+Travel northwest into the mist over the water, long rest
 Re-appear from the north, near the amber bathtub
 Land at dock island, kill guards
 Investigate skiffs, note similarities to bubble car, find naval maps of island
