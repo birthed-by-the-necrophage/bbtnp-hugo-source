@@ -26,7 +26,7 @@ This island contains:
 
 * A large fuel storage tank, which the party uses to refill both the bubble car and the plasma torch.
 
-* A dock with two small metal skiffs of a design that looks similar to the bubble car, and with similar controls. One of the skiffs has a nautical chart showing safe approach routes for an island about five miles wide.
+* A dock with two small metal skiffs of a design that looks similar to the bubble car, and with similar controls. One of the skiffs has a nautical chart showing safe approach routes for a roughly circular island, about five miles wide.
 
 * Also docked is a galley that appears to be of standard Thulean make and design. It's empty, but shows signs that a bloody struggle took place on its deck.
 
@@ -36,15 +36,26 @@ Next, the party travels further east along the coast, which soon curves to the s
 
 *Illustration by Luka Rejec for Hydra Cooperative*
 
-Travel northwest into the mist over the water, long rest
-Re-appear from the north, near the amber bathtub
-Land at dock island, kill guards
-Investigate skiffs, note similarities to bubble car, find naval maps of island
-Investigate galley, Thulian, sings of a struggle
-Fuel tank- refill plasma welder and bubble car
-Travel east and south along the coast
-Find the monument, land, kill Mivixx
-Ridiculous parley with the bone grinders
-Level 2, soul cube specters. Flynn defeats with his flaming sword
-Eld with the hat. Flynn kills, Ovek tries the hat.
-Level 3, bone grinder battle, secret room
+## Area 3
+
+This oddly shaped building floats about 100 feet of the ground, and has a bubble car hitching post near it single entrance, guarded by a single guard named Mvixx. An ear wrenching scream of pain intermittently erupts from the building, causing the entire structure to shake.
+
+The part immediately decides to investigate, landing the bubble car and making short work of the Mvixx. 
+
+### First Floor
+
+Amazingly (or perhaps ridiculously) Marvus is able to convince two large, grotesque creatures that the group represent the Eld, and the party is allowed access to an elevator wothout incident (Room 1). The creatures let slip that some sort of "god" is contained in the building.
+
+### Second Floor
+
+On the second floor, the party finds a cube that produces 3 specter-like creatures (Area 2) the spectres are ultimately defeated by Flynn's eldritch sword. Also found is a gallery of murals depicting oral torture techniques (Room 3) and a room full of with Eldish machinery that greatly resembles the machinery found in the Lapis Observatory (Room 4)
+
+Also in this room is an Eld wearing a hat that is wired into the machinery. It appears to be in a trance, and Flynn performs a merciless _coup de grâce_ with his sword.
+
+Ovek tries the hat on, and (after making a saving throw to avoid who-knows-what) decides that neat things would happen if someone were to prepare spells or regain PSPs while wearing it.
+
+### Third Floor
+
+Two more of the creature from below guard the elevator (Room 5,) and there's Marvus can't talk the group past this one. That's okay, because he's even better at pole-arming than he is at talking. Turns out the creature can stip a line of bone-projectiles out of flesh tube above thier heads, and can vomit up near-invisible skeletal henchmen.
+
+After the battle, an secret door is found, leading to a secret supply room... (Room 7)
