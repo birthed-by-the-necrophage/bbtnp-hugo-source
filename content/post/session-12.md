@@ -56,6 +56,9 @@ Ovek tries the hat on, and (after making a saving throw to avoid who-knows-what)
 
 ### Third Floor
 
-Two more of the creature from below guard the elevator (Room 5,) and there's Marvus can't talk the group past this one. That's okay, because he's even better at pole-arming than he is at talking. Turns out the creature can stip a line of bone-projectiles out of flesh tube above thier heads, and can vomit up near-invisible skeletal henchmen.
+Two more of the creature from below guard the elevator (Room 5,) and there's Marvus can't talk the group past this one. That's okay, because he's even better at pole-arming than he is at talking. Turns out the creature can spit a line of bone-projectiles out of fleshy tubes above thier heads, and can vomit up near-invisible skeletal henchmen. Fun times.
 
-After the battle, an secret door is found, leading to a secret supply room... (Room 7)
+After the battle, an secret door is found, leading to a secret supply room (Area 7.) What treasures might lie within?
+
+Find out next time.
+
