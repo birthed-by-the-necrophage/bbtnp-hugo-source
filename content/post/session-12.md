@@ -11,6 +11,8 @@ title = "Session 12"
 
 The party scrambles to learn the basics of bubble car operation, fleeing the scene of Session 11's near-TPK and heading northwest into the mists (off the shore of Area 15.)
 
+<!--more-->
+
 ![Area Map](/uploads/session-12-area-map.png)
 
 *(ed. note: Wow, that area map isn't holding up very well. I had to convert it to black and white to hide an unsightly yellowish splotch.)*
