@@ -55,7 +55,7 @@ Amazingly (or perhaps ridiculously) Marvus is able to convince two large, grotes
 
 ### Second Floor
 
-On the second floor, the party finds a cube that produces 3 specter-like creatures (Area 2) the spectres are ultimately defeated by Flynn's eldritch sword. Also found is a gallery of murals depicting oral torture techniques (Room 3) and a room full of with Eldish machinery that greatly resembles the machinery found in the Lapis Observatory (Room 4)
+On the second floor, the party finds a cube that produces 3 specter-like creatures (Area 2) the spectres are ultimately defeated by Flynn's eldritch sword. Also found is a gallery of murals depicting oral torture techniques (Room 3) and a room full of with Eldish machinery (Room 4) that greatly resembles the machinery found in the Lapis Observatory. 
 
 Also in this room is an Eld wearing a hat that is wired into the machinery. It appears to be in a trance, and Flynn performs a merciless *coup de grâce* with his sword.
 
