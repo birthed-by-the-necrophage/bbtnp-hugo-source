@@ -75,10 +75,12 @@ What treasures might lie within? Find out next time!
 * 3 Eldish Warriors
 * 1 Eldish Psychonaut Tech
 * 2 Bonegrinders
+* 3 Specters
 
 ## Goals Achieved
 
-
+* Learn to pilot the bubble car (Ovek)
+* Slay an Eld with his sword (Flynn)
 
 ## Loot Obtained
 
