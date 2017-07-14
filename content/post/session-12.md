@@ -7,6 +7,8 @@ tags = []
 title = "Session 12"
 
 +++
+
+
 *Session Date: 6/4/2017*
 
 The party scrambles to learn the basics of bubble car operation, fleeing the scene of Session 11's near-TPK and heading northwest into the mists (off the shore of Area 15.)
@@ -66,20 +68,24 @@ At this point, Flynn began to develop bloody, painfully dripping pustules around
 
 Two more of the creatures from below guard the elevator (Room 5,) and Marvus can't talk the group through this time. That's okay, because he's even better at pole-arming than he is at talking. Turns out the creatures can spit a line of bone-projectiles out of fleshy tubes above thier heads, and can vomit up near-invisible skeletal henchmen. A fun time was had by all.
 
-After the battle, an secret door is found, leading to a secret supply room (Area 7.)
+After the battle, a secret door is found, leading to a secret supply room (Area 7.)
 
 What treasures might lie within? Find out next time!
 
 ## Foes Vanquished
 
 * 3 Eldish Warriors
+
 * 1 Eldish Psychonaut Tech
+
 * 2 Bonegrinders
+
 * 3 Specters
 
 ## Goals Achieved
 
 * Learn to pilot the bubble car (Ovek)
+
 * Slay an Eld with his sword (Flynn)
 
 ## Loot Obtained
