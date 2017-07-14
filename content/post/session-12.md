@@ -28,7 +28,7 @@ This island contains:
 
 * Two Eld guards, which serve as test subjects for the bubble car's *fireball* ability. Turns out *fireballs* use a lot of fuel.
 
-* A utility building with nothing of interesting inside.
+* A utility building with nothing of interest inside.
 
 * A large fuel storage tank, which the party uses to refill both the bubble car and the plasma torch.
 
