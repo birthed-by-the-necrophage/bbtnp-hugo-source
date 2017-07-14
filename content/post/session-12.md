@@ -12,6 +12,8 @@ title = "Session 12"
 
 The party scrambles to learn the basics of bubble car operation, fleeing the scene of Session 11's near-TPK and heading northwest into the mists (off the shore of Area 15.)
 
+![Area Map](/uploads/session-12-area-map.png)
+
 The bubble car seems to have a maximum altitude of about 100ft, and Flynn notices that both the bubble car and plasma welder seem to be "powered" by the same mysterious liquid. When the plasma torch ran out of liquid, it stopped working. The bubble car presumably works the same way.
 
 After spending a long rest spent hovering in the mist, it's time for some more exploration. Strangely, the party emerges from the mist some two and a half miles east of where they entered (above Area 8.) Ovek posits that they must have drifted while hovering. Nobody makes much of it, and the group decides to fly over to the previously inaccessible island (Area 17) and check it out.
@@ -32,7 +34,7 @@ This island contains:
 
 Next, the party travels further east along the coast, which soon curves to the south, and the party follows a long, empty black-sand beach (Areas 1 - 2) until they see a strange sight to the west (Area 3), a floating, oddly shaped structure:
 
-![Area 11 Map](/uploads/monument-five-luka-rejec.png)
+![Monument 5](/uploads/monument-five-luka-rejec.png)
 
 *Illustration by Luka Rejec for Hydra Cooperative*
 
@@ -61,4 +63,3 @@ Two more of the creature from below guard the elevator (Room 5,) and there's Mar
 After the battle, an secret door is found, leading to a secret supply room (Area 7.) What treasures might lie within?
 
 Find out next time.
-
