@@ -50,7 +50,7 @@ The party immediately decides to investigate, landing the bubble car and making 
 
 ### First Floor
 
-Amazingly (or perhaps ridiculously) Marvus is able to convince two large, grotesque creatures that the group represents the Eld, and the party is allowed access to an elevator wothout incident (Room 1). The creatures let slip that some sort of "god" is contained in the building.
+Amazingly (or perhaps ridiculously) Marvus is able to convince two large, grotesque creatures that the group represents the Eld, and the party is allowed access to an elevator without incident (Room 1). The creatures let slip that some sort of "god" is contained in the building.
 
 ### Second Floor
 
