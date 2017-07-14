@@ -35,7 +35,7 @@ This island contains:
 
 * Also docked is a galley that appears to be of standard Thulean make and design. It's empty, but shows signs that a bloody struggle took place on its deck.
 
-Next, the party the follows easy along the coast , which soon curves to the south, and empty black-sand beach (Areas 1 - 2), and eventually they see a strange sight to the west through a gap in the grub ridges: a floating, oddly shaped structure (Area 3):
+Next, the party the follows east along the coast, which soon curves to the south (Areas 1 - 2, an empty black-sand beach), and eventually they see a strange sight to the west through a gap in the grub ridges: a floating, oddly shaped structure (Area 3):
 
 ![Monument 5](/uploads/monument-five-luka-rejec.png)
 
