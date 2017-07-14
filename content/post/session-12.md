@@ -46,7 +46,7 @@ Next, the party the follows east along the coast, which soon curves to the south
 
 This oddly shaped building floats about 100 feet of the ground, and has a bubble car hitching post near it single entrance, guarded by a single guard named Mvixx. An ear wrenching scream of pain intermittently erupts from the building, causing the entire structure to shake.
 
-The part immediately decides to investigate, landing the bubble car and making short work of Mvixx.
+The party immediately decides to investigate, landing the bubble car and making short work of Mvixx.
 
 ![Monument 5 iso map](/uploads/monument-5-iso.png)
 
