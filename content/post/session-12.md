@@ -7,8 +7,6 @@ tags = []
 title = "Session 12"
 
 +++
-
-
 *Session Date: 6/4/2017*
 
 The party scrambles to learn the basics of bubble car operation, fleeing the scene of Session 11's near-TPK and heading northwest into the mists (off the shore of Area 15.)
@@ -75,17 +73,13 @@ What treasures might lie within? Find out next time!
 ## Foes Vanquished
 
 * 3 Eldish Warriors
-
 * 1 Eldish Psychonaut Tech
-
 * 2 Bonegrinders
-
 * 3 Specters
 
 ## Goals Achieved
 
 * Learn to pilot the bubble car (Ovek)
-
 * Slay an Eld with his sword (Flynn)
 
 ## Loot Obtained
