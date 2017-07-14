@@ -7,7 +7,7 @@ type = "page"
 +++
 
 
-* A nutical chart showing safe routes to a small island
+* A nautical chart showing safe routes to a small island
 
 * An Eldish bubble car
 
