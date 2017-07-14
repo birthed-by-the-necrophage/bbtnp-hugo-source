@@ -5,13 +5,11 @@ title = "Important Loot"
 type = "page"
 
 +++
-
-
 * A nautical chart showing safe routes to a small island
 
 * An Eldish bubble car
 
-* <strike>4</strike> 3 Eldish grenades with unknown capabilities
+* <strike>Four</strike> Three Eldish grenades with unknown capabilities
 
 * A very nice *Wand of Cure Wounds* that might be more than it seems
 
