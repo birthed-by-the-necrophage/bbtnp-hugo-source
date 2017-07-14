@@ -8,8 +8,6 @@ tags = []
 title = "Session 12"
 
 +++
-
-
 *Session Date: 6/4/2017*
 
 The party scrambles to learn the basics of bubble car operation, fleeing the scene of Session 11's near-TPK and heading northwest into the mists (off the shore of Area 15.)
@@ -70,4 +68,18 @@ Two more of the creatures from below guard the elevator (Room 5,) and Marvus can
 
 After the battle, an secret door is found, leading to a secret supply room (Area 7.)
 
-What treasures might lie within? <span style="font-size: 1rem;">Find out next time!</span>
+What treasures might lie within? Find out next time!
+
+## Foes Vanquished
+
+* 3 Eldish Warriors
+* 1 Eldish Psychonaut Tech
+* 2 Bonegrinders
+
+## Goals Achieved
+
+
+
+## Loot Obtained
+
+* A nautical map
