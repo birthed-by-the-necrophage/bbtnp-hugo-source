@@ -44,6 +44,8 @@ This oddly shaped building floats about 100 feet of the ground, and has a bubble
 
 The part immediately decides to investigate, landing the bubble car and making short work of the Mvixx. 
 
+![Monument 5 iso map](/uploads/monument-5-iso.png)
+
 ### First Floor
 
 Amazingly (or perhaps ridiculously) Marvus is able to convince two large, grotesque creatures that the group represent the Eld, and the party is allowed access to an elevator wothout incident (Room 1). The creatures let slip that some sort of "god" is contained in the building.
