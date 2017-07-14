@@ -5,10 +5,16 @@ title = "Important Loot"
 type = "page"
 
 +++
-* An Eldish bubble car. Currently unlocked capabilities: Vertical ascension 
 
-* Map from the Emerald Enchanter with four areas marked
+
+* A nutical chart showing safe routes to a small island
+
+* An Eldish bubble car
+
+* <strike>4</strike> 3 Eldish grenades with unknown capabilities
 
 * A very nice *Wand of Cure Wounds* that might be more than it seems
 
-* Plasma Torch, currently out of fuel
+* An Eldish plasma torch, full tank
+
+* A map from the Emerald Enchanter with four areas marked
