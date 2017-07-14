@@ -18,7 +18,7 @@ The party scrambles to learn the basics of bubble car operation, fleeing the sce
 
 The bubble car appears to have a maximum altitude of about 100ft, and Flynn notices that both the bubble car and plasma welder seem to be "powered" by the same mysterious liquid. When the plasma torch ran out of liquid, it stopped working. The bubble car presumably works the same way.
 
-After spending a long rest spent hovering in the mist, it's time for some more exploration, this time with the comfort and convenience of a flying car. Strangely, the party emerges from the mist some two and a half miles east of where they entered (above Area 8.) Ovek posits that they must have drifted while hovering. Nobody makes much of it, and the group decides to fly over to the previously inaccessible island (Area 17) and check it out.
+After a long rest spent hovering in the mist, it's time for some more exploration, this time with the comfort and convenience of a flying car. Strangely, the party emerges from the mist some two and a half miles east of where they entered (above Area 8.) Ovek posits that they must have drifted while hovering. Nobody makes much of it, and the group decides to fly over to the previously inaccessible island (Area 17) and check it out.
 
 ## Area 17
 
