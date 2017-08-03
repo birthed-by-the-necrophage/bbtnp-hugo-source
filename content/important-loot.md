@@ -9,10 +9,16 @@ type = "page"
 
 * An Eldish bubble car
 
-* <strike>Four</strike> Three Eldish grenades with unknown capabilities
+* <strike>Four</strike> <strike>Three</strike> <strike>Six</strike> Two *antiorgone grenades*
 
 * A very nice *Wand of Cure Wounds* that might be more than it seems
 
 * An Eldish plasma torch, full tank
+
+* Two Eldish blastotubes
+
+* Eldish razordisc gun and six razordiscs
+
+* Eldish pain-baton
 
 * A map from the Emerald Enchanter with four areas marked
