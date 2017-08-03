@@ -50,6 +50,10 @@ A complex consisting of a bunker-like building, three silos, and a tower with a 
 
 Marvus immediately suggests stealing the bubble car. A guard on the tower roof spots the party as they begin their approach...
 
+## Session MVP
+
+* Flynn and Ovek (tied)
+
 ## Foes Vanquished
 
 * 14 Eldish Warriors
