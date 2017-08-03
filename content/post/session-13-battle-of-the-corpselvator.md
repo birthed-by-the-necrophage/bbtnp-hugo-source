@@ -81,6 +81,7 @@ The party doesn't investigate the situation on the fourth floor, however, wantin
 * 20 doses grey lotus powder
 * Soul-cube control circlet
 * Three smoking pipes
+* Three more antiorgone grenades
 * 2 Blastotubes
 * Pain-baton
 * Eld ceramic plate armor the fits Marvus
