@@ -7,8 +7,6 @@ tags = []
 title = "s02e04: The Corpselvator"
 
 +++
-
-
 *Session Date: 7/15/2017*
 
 The party continues to explore the mysterious floating Eld structure (Area 3,) and — whenever the DM manages to remember it — continue to be intermittently interrupted by overwhelming screams of pain and anguish. Maybe they'll eventually to get to the top of the building and find out who's making all the noise?
@@ -75,35 +73,22 @@ The party doesn't investigate the situation on the fourth floor, however, wantin
 ## Foes Vanquished
 
 * 1 Eld torture tech
-
 * 8 Eld warriors
-
 * 2 bonegriders
-
 * Over-Captain Kliax
-
 * Cadet-Killman Nashool
-
 * 1 large bay window
-
 * 2 control rooms
 
 ## Loot Obtained
 
 * 20 doses grey lotus powder
-
 * Soul-cube control circlet
-
 * Three smoking pipes
-
 * Three more antiorgone grenades
-
 * 2 Blastotubes
-
 * Pain-baton
-
 * Eld ceramic plate armor the fits Marvus
-
 * Razordisc guns with 6 razorsdiscs.
 
 ## Goals Achieved
@@ -117,5 +102,4 @@ The party doesn't investigate the situation on the fourth floor, however, wantin
 ## Goals Attempted but Failed
 
 * Charm foe into attacking an ally (Ovek)
-
 * Intimidate someone into aiding the party (Marvus)
