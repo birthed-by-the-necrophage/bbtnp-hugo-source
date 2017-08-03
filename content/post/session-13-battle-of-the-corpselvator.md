@@ -8,6 +8,8 @@ tags = []
 title = "Session 13: Battle of the Corpselvator"
 
 +++
+
+
 *Session Date: 7/15/2017*
 
 The party continues to explore the mysterious floating Eld structure (Area 3,) and — whenever the DM manages to remember it — continue to be intermittently interrupted by overwhelming screams of pain and anguish. Maybe they'll eventually to get to the top of the building and find out who's making all the noise?
@@ -67,7 +69,7 @@ The control rooms are soon reduced to nothing but cinders. A reverberating sigh 
 
 The party doesn't investigate the situation on the fourth floor, however, wanting to be clear of the area before the reinforcements arrive. They once again retreat into the mists, heading back up to the north island (Area 17) to refuel and regroup. This time, they emerge from the mist exactly where they expect to.
 
-## Session MVP
+## Session MVPC
 
 * Marvus
 
