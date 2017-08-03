@@ -8,19 +8,20 @@ tags = []
 title = "Session 13: Battle of the Corpselvator"
 
 +++
+
+
 *Session Date: 7/15/2017*
 
-The party continues to explore the mysterious floating Eld structure (Area 3,) and &mdash; whenever the DM manages to remember it &mdash; continue to be intermittently interrupted by overwhelming screams of pain and anguish. Maybe they'll eventually to get to the top of the building and find out who's making all the noise?
-
+The party continues to explore the mysterious floating Eld structure (Area 3,) and — whenever the DM manages to remember it — continue to be intermittently interrupted by overwhelming screams of pain and anguish. Maybe they'll eventually to get to the top of the building and find out who's making all the noise?
 <!--more-->
 
 The first order of business is taking a break in the secret treasure room (Room 3), examining the loot (full list below). Flynn at first plans to cast *identify*, but is stymied by a lack of spell components. Instead he tries on the circlet, which is discovered to be a control device for the spectre cube in Room 2, which itself turns out to be a device for imprisoning and torturing souls. Interesting, but a practical use for adventurers who want to "be not evil" is not immediately evident.
 
-Next up, a room (Room 6) that appears to be almost an exact copy of the room one floor below it (Room 4,)  complete with Eldish machinery connected via wired helmet to an Eld technician. This one is waving its arms around as if conducting an orchestra, oblivious to its surroundings. Marvus immediately tackles and pins it, but attempts to intimidate are comically unsuccessful (even a face-slap from Flynn doesn't work!) and the Eld reveals nothing before meeting its end. 
+Next up, a room (Room 6) that appears to be almost an exact copy of the room one floor below it (Room 4,)  complete with Eldish machinery connected via wired helmet to an Eld technician. This one is waving its arms around as if conducting an orchestra, oblivious to its surroundings. Marvus immediately tackles and pins it, but attempts to intimidate are comically unsuccessful (even a face-slap from Flynn doesn't work!) and the Eld reveals nothing before meeting its end.
 
 Marvus is very excited to discover, however, that the Eld's teal and cerulean ceramic plate armor looks like it might fit him pretty well. When it turns out is does, he's even more excited to discover the possibly overpowered effect it has on his STR and CON saves.
 
-Despite the unintimidatable prisoner, there is still information to be learned in the room. One of the walls displays a large map of the exact region of Thule the party has recently departed, with five location marked. The locations are connected by glowing lines forming a perimeter. Most of the lines are a solid, steady green, but two of them (both emanating from the same marked location,) are red and blinking:
+Despite the unintimidatable prisoner, there is still information to be learned in the room. One of the walls displays a large map of the exact region of Thule the party has recently departed, with five locations marked. The locations are connected by glowing lines forming a perimeter. Most of the lines are a solid, steady green, but two of them (both emanating from the same marked location,) are red and blinking:
 
 ![Eld wall map](/uploads/session-13-map.png)
 
@@ -28,17 +29,17 @@ Some observations are made:
 
 * The five marked locations, except for one, match locations on the map taken so long ago from the Emerald Enchanter (EE.)
 
-* The one location not marked on the EE's map &mdash;a small island&mdash; is actually not on the EE's version of the map at all.
- 
-* The location emanating the blinking red lines is the Lapis Observatory, where the party first encountered the Eld and their machinery. 
+* The one location not marked on the EE's map —a small island— is actually not on the EE's version of the map at all.
 
-And some tentative conclusions are reached: 
+* The location emanating the blinking red lines is the Lapis Observatory, where the party first encountered the Eld and their machinery.
+
+And some tentative conclusions are reached:
 
 * The blinking red lines are the result of the party destroying the machinery in the Lapis Observatory.
 
-* The party is perhaps on the mysterious island, and possibly even inside the structure powering the entire network. 
+* The party is perhaps on the mysterious island, and possibly even inside the structure powering the entire network.
 
-* Maybe destroying this facility will shut down the whole thing? (whatever the heck it is.) 
+* Maybe destroying this facility will shut down the whole thing? (whatever the heck it is.)
 
 Discussion is interrupted by a successful perception check.  Through the room's large window, two incoming bubble cars can be seen and will likely be landing outside the first floor (Room 1) in a matter of minutes!
 
@@ -48,7 +49,7 @@ When this happens and a troop of Eld warriors enter the elevator platform, the p
 
 Now the party retreats from the elevator to take up defensive positions (in Room 6), waiting to see who follows after the elevator is again called to the first floor.  The answer: the two first floor bonegrinders, who are understandably still upset at having been lied to by the party ("You got us in trouble!")  They exchange ranged attacks with Ovek and Flynn, but ultimately die before leaving the increasingly corpse-filled elevator.
 
-Another sight through the window spurs more action &mdash; the bubble cars are leaving, presumably to bring reinforcements. The party decides they'd better get to the first floor and leave in their own bubble car before this happens, and proceed to the corpselvator.
+Another sight through the window spurs more action — the bubble cars are leaving, presumably to bring reinforcements. The party decides they'd better get to the first floor and leave in their own bubble car before this happens, and proceed to the corpselvator.
 
 They find the first floor guarded by two remaining Eld warriors, one officer (Over-Captain Kliax) and one jr. officer (Cadet-Killman Nashool.) A physic grenade attack leaves Grimbok incapacitated by antiorgone discomfort. Cadet-Killman Nashool tries and fails to charm Marvus, who is instead taken down by Over-Captain Kliax's razordisc gun.
 
@@ -62,29 +63,42 @@ So they decide make the attempt from as far a distance as possible. Marvus quaff
 
 He's brought inside the bubble car, which Ovek uses to thoroughly *fireball* both control rooms through the newly broken window. Flynn significantly enhances the effect of the fireballs with a stream of bubble car/plasma welder fluid.
 
-The control rooms are soon reduced to nothing but cinders. A reverberating sigh of relief  from the fourth floor implies that the plan was successful. 
+The control rooms are soon reduced to nothing but cinders. A reverberating sigh of relief  from the fourth floor implies that the plan was successful.
 
 The party doesn't investigate the situation on the fourth floor, however, wanting to be clear of the area before the reinforcements arrive. They once again retreat into the mists, heading back up to the north island (Area 17) to refuel and regroup. This time, they emerge from the mist exactly where they expect to.
 
 ## Foes Vanquished
 
 * 1 Eld torture tech
+
 * 8 Eld warriors
+
 * 2 bonegriders
+
 * Over-Captain Kliax
+
 * Cadet-Killman Nashool
+
 * 1 large bay window
+
 * 2 control rooms
 
 ## Loot Obtained
 
 * 20 doses grey lotus powder
+
 * Soul-cube control circlet
+
 * Three smoking pipes
+
 * Three more antiorgone grenades
+
 * 2 Blastotubes
+
 * Pain-baton
+
 * Eld ceramic plate armor the fits Marvus
+
 * Razordisc guns with 6 razorsdiscs.
 
 ## Goals Achieved
@@ -98,4 +112,5 @@ The party doesn't investigate the situation on the fourth floor, however, wantin
 ## Goals Attempted but Failed
 
 * Charm foe into attacking an ally (Ovek)
+
 * Intimidate someone into aiding the party (Marvus)
