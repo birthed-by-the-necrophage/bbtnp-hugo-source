@@ -7,15 +7,16 @@ tags = []
 title = "Session 11"
 
 +++
+
+
 *Session Date: 4/22/2017*
 
 ![Area 11 Map](/uploads/vat-complex-iso.png)
 
 The party has decided to ascend an Eldish tower and commandeer a bubble car parked on it's roof. A presumably easy task, considering the single guard.
-
 <!--more-->
 
-## Tower Assault 
+## Tower Assault
 
 The tower has no visible exterior entrances or windows, necessitating an exterior ascension. Ovek initially plans to psionically fly to the top and secure a rope, but instead skimps on the PSPs and manifests *bestial form*, extruding climbing hooks out of his hands and feet. (Which, if you think about it, is kind of gross.)
 
@@ -39,13 +40,14 @@ Marvus regains his weapon and exhibits his signature pole-arm mastery as he blud
 
 Meanwhile, Ovek regains consciousness and stabilizes Flynn. With the entire party in the bubble car, most of them resource depleted and near death, and another Eldish contingent on it's way from the tower, Ovek and Marvus work together to make some rudimentary sense of the bubble car controls. It lurches jerkily into the air with no time to spare...
 
-## Session MVP
+## Session MVPC
 
 * Ovek
 
 ## Foes Vanquished
 
 * 5 Eldish Warriors
+
 * 1 Eldish Psychonaut Officer
 
 ## Loot Obtained
