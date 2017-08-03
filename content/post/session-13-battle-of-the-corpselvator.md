@@ -38,15 +38,15 @@ And some tentative conclusions are reached:
 
 * Maybe destroying this facility will shut down the whole thing? (whatever the heck it is.)
 
-Discussion is interrupted by a successful perception check.  Through the room's large window, two incoming bubble cars can be seen and will likely be landing outside the first floor (Room 1) in a matter of minutes!
+Discussion is interrupted by a successful perception check.  Through the room's large bay window, two incoming bubble cars can be seen and will likely be landing outside the first floor in a matter of minutes! (Room 1) 
 
-A plan is quickly devised and enacted. The party conceals itself above the elevator, which, has a ceiling and three side walls, but no doors. They prepare actions and wait for the elevator be called back to the first floor.
+A plan is quickly devised and enacted. The party conceals itself above the elevator, which has a ceiling and three side walls, but no doors. They prepare actions and wait for the elevator be called back to the first floor.
 
-When this happens and a troop of Eld warriors enter the elevator platform, the party reigns down spells, powers, and grenades through a ceiling hatch. Marvus and Grimbok drop down to deal with any survivors, and find themselves under attack by bonegrinders and the rest of the Eld contingent. Marvus responds by sending the elevator back to the third floor.
+When this happens and a troop of Eld warriors enter the elevator platform, the party rains down spells, powers, and grenades through a ceiling hatch. Marvus and Grimbok drop down to deal with any survivors, and find themselves under attack by bonegrinders and the rest of the Eld contingent. Marvus responds by sending the elevator back to the third floor.
 
-Now the party retreats from the elevator to take up defensive positions (in Room 6), waiting to see who follows after the elevator is again called to the first floor.  The answer: the two first floor bonegrinders, who are understandably still upset at having been lied to by the party ("You got us in trouble!")  They exchange ranged attacks with Ovek and Flynn, but ultimately die without exiting increasingly corpse-filled elevator.
+Now the party retreats from the elevator to take up defensive positions (in Room 6), waiting to see who follows. The answer: the two first floor bonegrinders, who are understandably still upset at having been lied to by the party ("You got us in trouble!")  They exchange ranged attacks with Ovek and Flynn, but ultimately die without exiting increasingly corpse-filled elevator.
 
-Another sight through the window spurs more action — the bubble cars are leaving, presumably to bring reinforcements. The party decides they'd better get to the first floor and leave in their own bubble car before this happens. They proceed to the corpselvator.
+The view through the window spurs more more action — the bubble cars are leaving, presumably to bring reinforcements. The party decides they'd better get to the first floor and depart in their own bubble car before this happens. They proceed to the corpselvator.
 
 The first floor is found to be guarded by two remaining Eld warriors, one officer (Over-Captain Kliax) and one jr. officer (Cadet-Killman Nashool.) A grenade attack leaves Grimbok incapacitated by antiorgone discomfort. Cadet-Killman Nashool tries and fails to charm Marvus, who is instead taken down by Over-Captain Kliax's razordisc gun.
 
@@ -60,7 +60,7 @@ You'd think this all would be enough for one session, but no, there's more!
 
 So they decide make the attempt from as far a distance as possible. Marvus quaffs a *levitate* potion (first potion use in the campaign?) allowing him to attack the huge bay window from outside the building. It immediately shatters. The explosion of glass shards sends him back to zero hit points, this time with no remaining *will to live*.
 
-He's brought inside the bubble car, which Ovek uses to thoroughly *fireball* both control rooms through the newly broken window. Flynn significantly enhances the effect of the fireballs with a stream of bubble car/plasma welder fluid.
+He's brought inside the bubble car, which Ovek uses to thoroughly *fireball* both control rooms through the newly broken window. Flynn significantly enhances the effect of the fireballs with a stream of bubble car/plasma welder fuel.
 
 The control rooms are soon reduced to nothing but cinders. A reverberating sigh of relief  from the fourth floor implies that the plan was successful.
 
