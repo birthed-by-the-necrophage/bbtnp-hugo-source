@@ -21,7 +21,7 @@ Next up, a room (Room 6) that appears to be almost an exact copy of the room one
 
 Marvus is very excited to discover, however, that the Eld's teal and cerulean ceramic plate armor looks like it might fit him pretty well. When it turns out is does, he's even more excited to discover the possibly overpowered effect it has on his STR and CON saves.
 
-Despite the unintimidatable prisoner, there is still information to be learned in the room. One of the walls displays a large map of the exact region of Thule the party has recently departed, with five locations marked. The locations are connected by glowing lines forming a perimeter. Most of the lines are a solid, steady green, but two of them (both emanating from the same marked location,) are red and blinking:
+Despite the unintimidatable prisoner, there is still information to be learned in the room. One of the walls displays a large map of the exact region of Thule the party has recently departed, with five locations marked. The locations are connected by glowing lines forming an  irregular pentagon. Most of the lines are a solid, steady green, but two of them (both emanating from the same marked location,) are red and blinking:
 
 ![Eld wall map](/uploads/session-13-map.png)
 
@@ -43,23 +43,25 @@ And some tentative conclusions are reached:
 
 Discussion is interrupted by a successful perception check.  Through the room's large window, two incoming bubble cars can be seen and will likely be landing outside the first floor (Room 1) in a matter of minutes!
 
-A plan is quickly devised and enacted. The party conceals itself above the elevator (which, oddly, has a ceiling and three side walls, but no doors,) and waits for it to be called back to the first floor.
+A plan is quickly devised and enacted. The party conceals itself above the elevator, which, has a ceiling and three side walls, but no doors. They prepare actions and wait for the elevator be called back to the first floor.
 
-When this happens and a troop of Eld warriors enter the elevator platform, the party reigns down spells, powers, and psychic grenades through a ceiling hatch. Marvus and Grimbok drop down to deal with any survivors, and find themselves under attack by bonegrinders and the rest of the Eld contingent. Marvus responds by sending the elevator back to the third floor.
+When this happens and a troop of Eld warriors enter the elevator platform, the party reigns down spells, powers, and grenades through a ceiling hatch. Marvus and Grimbok drop down to deal with any survivors, and find themselves under attack by bonegrinders and the rest of the Eld contingent. Marvus responds by sending the elevator back to the third floor.
 
-Now the party retreats from the elevator to take up defensive positions (in Room 6), waiting to see who follows after the elevator is again called to the first floor.  The answer: the two first floor bonegrinders, who are understandably still upset at having been lied to by the party ("You got us in trouble!")  They exchange ranged attacks with Ovek and Flynn, but ultimately die before leaving the increasingly corpse-filled elevator.
+Now the party retreats from the elevator to take up defensive positions (in Room 6), waiting to see who follows after the elevator is again called to the first floor.  The answer: the two first floor bonegrinders, who are understandably still upset at having been lied to by the party ("You got us in trouble!")  They exchange ranged attacks with Ovek and Flynn, but ultimately die without exiting increasingly corpse-filled elevator.
 
-Another sight through the window spurs more action — the bubble cars are leaving, presumably to bring reinforcements. The party decides they'd better get to the first floor and leave in their own bubble car before this happens, and proceed to the corpselvator.
+Another sight through the window spurs more action — the bubble cars are leaving, presumably to bring reinforcements. The party decides they'd better get to the first floor and leave in their own bubble car before this happens. They proceed to the corpselvator.
 
-They find the first floor guarded by two remaining Eld warriors, one officer (Over-Captain Kliax) and one jr. officer (Cadet-Killman Nashool.) A physic grenade attack leaves Grimbok incapacitated by antiorgone discomfort. Cadet-Killman Nashool tries and fails to charm Marvus, who is instead taken down by Over-Captain Kliax's razordisc gun.
+The first floor is found to be guarded by two remaining Eld warriors, one officer (Over-Captain Kliax) and one jr. officer (Cadet-Killman Nashool.) A grenade attack leaves Grimbok incapacitated by antiorgone discomfort. Cadet-Killman Nashool tries and fails to charm Marvus, who is instead taken down by Over-Captain Kliax's razordisc gun.
 
-This leaves the situation looking not-great for Ovek and Flynn, but Marvus unexpectedly discovers a *will to live* and is back up and fighting without the need for death saves or healing magic. Impressed by this, the rest of the party does a quick inventory of their own forgotten Thulian abilities.
+This leaves the situation looking not-great for Ovek and Flynn, but Marvus unexpectedly discovers a *will to live* and is soon back up and fighting. Impressed by this, the rest of the party does a quick inventory of their own forgotten Thulian abilities.
 
-After some DM confusion about who exactly is standing where (inflicted by his own "no miniatures" plan,)  Flynn *webs* Over-Captain Kliax and Eld Warrior 1, and Ovek moves in to help Marvus with Cadet-Killman Nashool and Eld Warrior 2. The battle soon enters its mop up phase, and Over-Captain Kliax is slain while attempting to retreat.
+After some DM confusion about who exactly is standing where (inflicted by his own "no miniatures" plan,)  Flynn *webs* Over-Captain Kliax and Eld Warrior #1, and Ovek moves in to help Marvus with Cadet-Killman Nashool and Eld Warrior #2. The battle soon enters its mop up and looting phases. Over-Captain Kliax is slain while attempting to retreat.
 
-You'd think this all would be enough for one session, but no, there's more! The party decides that before they leave, they'd better shut down the machinery in the control rooms on the second and third floors. They need to do it quickly, which means increased risk of being sucked into another INTERDIMENSIONAL RIFT.
+You'd think this all would be enough for one session, but no, there's more!
 
-So they decide make the attempt from as far a distance as possible. Marvus quaffs a *levitate* potion (first potion use in the campaign?) allowing him to attack the huge bay window from outside the building. It immediately shatters. The explosion of glass shards sends him back to death saves, this time with no remaining *will to live*.
+<span style="font-size: 1rem;">The party decides that before they leave, they'd better shut down the machinery in the control rooms on the second and third floors. They need to do it quickly, which means increased risk of being sucked into another INTERDIMENSIONAL RIFT.</span>
+
+So they decide make the attempt from as far a distance as possible. Marvus quaffs a *levitate* potion (first potion use in the campaign?) allowing him to attack the huge bay window from outside the building. It immediately shatters. The explosion of glass shards sends him back to zero hit points, this time with no remaining *will to live*.
 
 He's brought inside the bubble car, which Ovek uses to thoroughly *fireball* both control rooms through the newly broken window. Flynn significantly enhances the effect of the fireballs with a stream of bubble car/plasma welder fluid.
 
