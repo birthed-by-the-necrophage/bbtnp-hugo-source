@@ -43,7 +43,6 @@ Meanwhile, Ovek regains consciousness and stabilizes Flynn. With the entire part
 ## Foes Vanquished
 
 * 5 Eldish Warriors
-
 * 1 Eldish Psychonaut Officer
 
 ## Loot Obtained
