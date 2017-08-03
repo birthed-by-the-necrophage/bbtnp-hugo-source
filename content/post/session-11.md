@@ -5,7 +5,6 @@ description = ""
 images = []
 tags = []
 title = "s02e02: Tower Assault"
-type = ""
 
 +++
 *Session Date: 4/22/2017*
