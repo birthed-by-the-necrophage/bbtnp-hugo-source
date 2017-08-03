@@ -11,6 +11,8 @@ Stuff (besides killing monsters) that will earn XP. The entire party earns XP wh
 
 ## Achieved!
 
+* Session 13: Obtain wearable Eld ceramic platemail (Marvus)
+
 * Session 12: Learn to pilot the bubble car (Ovek)
 
 * Session 12: Slay an Eld with his sword (Flynn)
@@ -33,12 +35,20 @@ Stuff (besides killing monsters) that will earn XP. The entire party earns XP wh
 
 * Teach Flynn to pilot the bubble car (Ovek)
 
-* Save the party from (needs clarification)(Marvus)
+* Save the party from a TPK (Marvus)
 
 * Effectively use his *fly* ability (Ovek)
 
 * Find a *Folding Boat*
 
-* Obtain wearable Eld ceramic platemail (Marvus)
+* Show mercy
 
-* Read the campaign log (Flynn)
+* Donate to charity
+
+* Charm foe into attacking an ally (Ovek)
+
+* Use healing magic to avert death (Flynn)
+
+* Intimidate someone into aiding the party (Marvus)
+
+
