@@ -16,9 +16,9 @@ The first order of business is taking a break in the secret treasure room, exami
 
 Next up, a room (6) that appears to be almost an exact copy of the room one floor below it (4), complete with Eldish machinery connected via wired helmet to an Eld technician. This one is waving its arms around as if conducting an orchestra, oblivious to its surroundings. Marvus immediately tackles and pins it, but attempts to intimidate are comically unsuccessful (even a face-slap from Flynn doesn't work!) and the Eld reveals nothing before meeting its end.
 
-Marvus is very excited to discover that the Eld's ceramic plate armor looks as though it might fit him pretty well. It does, and he's even more excited to discover the overpowered(?) effect it has on his STR and CON saves. The armor is a handsomely bright teal and cerulean.  
+Marvus is very excited to discover that the Eld's ceramic plate armor looks as though it might fit him. It does, and he's even more excited to discover the overpowered(?) effect it has on his STR and CON saves. The armor is teal and cerulean, and polished to a shine.
 
-Despite the unintimidatable prisoner, there is still information to be learned in the room. One of the walls displays a large map depicting the region of Thule the party has recently departed. Five locations are marked, connected by glowing lines forming an  irregular pentagon. Most of the lines are a solid, steady green, but two of them are red and blinking:
+Despite the unintimidatable prisoner, there is still information to be learned in the room. One wall displays a large map depicting the region of Thule the party has recently departed. Five locations are marked, connected by glowing lines forming an  irregular pentagon. Most of the lines are a solid, steady green, but two of them are red and blinking:
 
 ![Eld wall map](/uploads/session-13-map.png)
 
@@ -40,9 +40,9 @@ Some tentative conclusions are reached:
 
 Discussion is interrupted by a successful perception check.  Through the room's large bay window, two incoming bubble cars can be seen. The bubble cars will likely be landing outside the first floor in a matter of minutes! (Room 1) 
 
-A plan is quickly devised and enacted. The party conceals itself above the elevator, which has a ceiling and three side walls, but no doors. They prepare actions and wait for the elevator be called back to the first floor.
+A plan is quickly devised and enacted. The party conceals itself above the elevator, which has a ceiling and three side walls, but no doors. They prepare actions and ride the elevator ceiling as it is called back to the first floor.
 
-When this happens and a troop of Eld warriors enter the elevator platform, the party rains down spells, powers, and grenades through a ceiling hatch. Marvus and Grimbok drop down to deal with any survivors, and find themselves under attack by bonegrinders and the rest of the Eld contingent. Marvus responds by sending the elevator back to the third floor.
+When a troop of Eld warriors enter the elevator platform, the party rains down spells, powers, and grenades through a ceiling hatch. Marvus and Grimbok drop down into the elevator to deal with any survivors, and find themselves under attack by bonegrinders and the rest of the Eld contingent. Marvus responds by sending the elevator back to the third floor.
 
 Now the party retreats from the elevator to take up defensive positions in the third floor control room (6), waiting to see who follows. The answer: the two bonegrinders, who are understandably still upset at having been lied to by the party ("You got us in trouble!")  They exchange ranged attacks with Ovek and Flynn, but ultimately die without exiting increasingly corpse-filled elevator.
 
@@ -52,15 +52,15 @@ The first floor is found to be guarded by two remaining Eld warriors, one office
 
 This leaves the situation looking not-great for Ovek and Flynn, but Marvus unexpectedly discovers a *will to live* and is soon back up and fighting. Impressed by this, the rest of the party does a quick inventory of their own forgotten Thulian abilities.
 
- Flynn *webs* Over-Captain Kliax and Eld Warrior #1, and Ovek moves in to help Marvus with Cadet-Killman Nashool and Eld Warrior #2. After some DM confusion about who exactly is standing where (inflicted by his own "no miniatures" plan,) the battle soon enters its mop up and looting phases. Over-Captain Kliax is slain while attempting to retreat.
+Flynn *webs* Over-Captain Kliax and Eld Warrior #1, and Ovek moves in to help Marvus with Cadet-Killman Nashool and Eld Warrior #2. After some DM confusion about who exactly is standing where (inflicted by his own "no miniatures" plan,) the battle soon enters its mop-up and looting phases. Over-Captain Kliax is slain while attempting to retreat.
 
 You'd think this all would be enough for one session, but no, there's more!
 
-The party decides that before they leave, they'd better shut down the second and third floors control rooms. They need to do it quickly, which means increased risk of being sucked into another INTERDIMENSIONAL RIFT.
+The party decides that before they leave, they'd better shut down the second and third floor control rooms. They need to do it quickly, which means increased risk of being sucked into another INTERDIMENSIONAL RIFT.
 
 So they decide make the attempt from as safe a distance as possible. Marvus quaffs a *levitate* potion (first potion use in the campaign?) allowing him to attack the huge bay window from outside the building. It immediately shatters. The explosion of glass shards sends him back to zero hit points, this time with no remaining *will to live*.
 
-He's brought inside the bubble car, which Ovek uses to thoroughly *fireball* both control rooms through the newly broken window. Flynn significantly enhances the effect of the fireballs with a stream of bubble car/plasma welder fuel.
+He's brought inside the bubble car, which Ovek uses to thoroughly *fireball* both control rooms through the newly broken window. Flynn significantly enhances the effect of the *fireballs* with a stream of bubble car/plasma welder fuel.
 
 The control rooms are soon reduced to nothing but cinders. A reverberating sigh of relief  from the fourth floor implies that the plan was successful.
 
