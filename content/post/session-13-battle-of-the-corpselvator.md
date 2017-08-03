@@ -89,7 +89,7 @@ The party doesn't investigate the situation on the fourth floor, however, wantin
 * 2 Blastotubes
 * Pain-baton
 * Eld ceramic plate armor that fits Marvus
-* Razordisc guns with 6 razorsdiscs.
+* Razordisc gun with 6 razorsdiscs.
 
 ## Goals Achieved
 
