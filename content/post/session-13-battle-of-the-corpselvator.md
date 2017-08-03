@@ -28,7 +28,7 @@ Some observations are made:
 
 * The one location not marked on the EE's map —a small island— is actually not on the EE's version of the map at all.
 
-* The two blining lines share a terminus at the location of the  Lapis Observatory, where the party first encountered the Eld and their machinery.
+* The two blinking lines share a terminus at the location of the  Lapis Observatory, where the party first encountered the Eld and their machinery.
 
 Some tentative conclusions are reached:
 
