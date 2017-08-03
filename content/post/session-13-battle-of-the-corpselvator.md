@@ -9,14 +9,14 @@ title = "s02e04: The Corpselvator"
 +++
 *Session Date: 7/15/2017*
 
-The party continues to explore the mysterious floating Eld structure (Area 3,) and — whenever the DM manages to remember it — continue to be intermittently interrupted by overwhelming screams of pain and anguish. Maybe they'll eventually to get to the top of the building and find out who's making all the noise?
+The party continues to explore the mysterious floating Eld structure (Area 3,) and —whenever the DM manages to remember it— continue to be intermittently interrupted by overwhelming screams of pain and anguish. Maybe they'll eventually to get to the top of the building and find out who's making all the noise?
 <!--more-->
 
-The first order of business is taking a break in the secret treasure room (Room 3), examining the loot (full list below). Flynn at first plans to cast *identify*, but is stymied by a lack of spell components. Instead he tries on the circlet, which is discovered to be a control device for the spectre cube in Room 2, which itself turns out to be a device for imprisoning and torturing souls. Interesting, but a practical use for adventurers who want to "be not evil" is not immediately evident.
+The first order of business is taking a break in the secret treasure room, examining the loot ((Room 3). Flynn at first plans to cast *identify*, but is stymied by a lack of spell components. Instead he tries on the circlet, which is discovered to be a control device for the spectre cube in Room 2, which itself turns out to be a device for imprisoning and torturing souls. Interesting, but a practical use for adventurers who want to "be not evil" is not immediately evident.
 
 Next up, a room (Room 6) that appears to be almost an exact copy of the room one floor below it (Room 4,)  complete with Eldish machinery connected via wired helmet to an Eld technician. This one is waving its arms around as if conducting an orchestra, oblivious to its surroundings. Marvus immediately tackles and pins it, but attempts to intimidate are comically unsuccessful (even a face-slap from Flynn doesn't work!) and the Eld reveals nothing before meeting its end.
 
-Marvus is very excited to discover, however, that the Eld's teal and cerulean ceramic plate armor looks like it might fit him pretty well. When it turns out is does, he's even more excited to discover the possibly overpowered effect it has on his STR and CON saves.
+Marvus is very excited to discover that the Eld's teal and cerulean ceramic plate armor looks as though it might fit him pretty well. When it turns out is does, he's even more excited to discover the possibly overpowered effect it has on his STR and CON saves.
 
 Despite the unintimidatable prisoner, there is still information to be learned in the room. One of the walls displays a large map of the exact region of Thule the party has recently departed, with five locations marked. The locations are connected by glowing lines forming an  irregular pentagon. Most of the lines are a solid, steady green, but two of them (both emanating from the same marked location,) are red and blinking:
 
