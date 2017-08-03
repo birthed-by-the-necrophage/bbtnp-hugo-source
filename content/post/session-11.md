@@ -4,19 +4,16 @@ date = "2017-05-30T18:02:25+00:00"
 description = ""
 images = []
 tags = []
-title = "Session 11"
+title = "s02e02: Tower Assault"
+type = ""
 
 +++
-
-
 *Session Date: 4/22/2017*
 
 ![Area 11 Map](/uploads/vat-complex-iso.png)
 
 The party has decided to ascend an Eldish tower and commandeer a bubble car parked on it's roof. A presumably easy task, considering the single guard.
 <!--more-->
-
-## Tower Assault
 
 The tower has no visible exterior entrances or windows, necessitating an exterior ascension. Ovek initially plans to psionically fly to the top and secure a rope, but instead skimps on the PSPs and manifests *bestial form*, extruding climbing hooks out of his hands and feet. (Which, if you think about it, is kind of gross.)
 
