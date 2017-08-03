@@ -70,6 +70,10 @@ After the battle, a secret door is found, leading to a secret supply room (Area 
 
 What treasures might lie within? Find out next time!
 
+## Session MVP
+
+* Flynn
+
 ## Foes Vanquished
 
 * 3 Eldish Warriors
