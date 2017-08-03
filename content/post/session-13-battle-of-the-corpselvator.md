@@ -24,7 +24,7 @@ Despite the unintimidatable prisoner, there is still information to be learned i
 
 Some observations are made:
 
-* The five marked locations, except for one, match locations on the map taken so long ago from the Emerald Enchanter (EE.)
+* The five marked locations, except for one, match locations on the map taken from the Emerald Enchanter.
 
 * The one location not marked on the EE's map —a small island— is actually not on the EE's version of the map at all.
 
