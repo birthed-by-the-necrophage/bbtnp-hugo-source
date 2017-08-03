@@ -88,7 +88,7 @@ The party doesn't investigate the situation on the fourth floor, however, wantin
 * Three more antiorgone grenades
 * 2 Blastotubes
 * Pain-baton
-* Eld ceramic plate armor the fits Marvus
+* Eld ceramic plate armor that fits Marvus
 * Razordisc guns with 6 razorsdiscs.
 
 ## Goals Achieved
