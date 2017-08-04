@@ -4,7 +4,7 @@ date = "2017-08-02T19:50:17+00:00"
 description = ""
 images = []
 tags = []
-title = "s02e04: The Corpselvator"
+title = "S02E04: The Corpselvator"
 
 +++
 *Session Date: 7/15/2017*
