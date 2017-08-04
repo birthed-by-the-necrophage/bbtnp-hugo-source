@@ -1,6 +1,6 @@
 +++
 date = "2017-04-21T19:40:11-04:00"
-title = "s02e01: City of the Eld"
+title = "S02E01: City of the Eld"
 
 +++
 *Session Date: 3/25/2017*
