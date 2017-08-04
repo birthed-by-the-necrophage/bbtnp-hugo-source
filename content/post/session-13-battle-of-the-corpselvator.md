@@ -1,6 +1,6 @@
 +++
 categories = []
-date = "2017-08-02T19:50:17+00:00"
+date = "08/04/2017 8:03 AM"
 description = ""
 images = []
 tags = []
