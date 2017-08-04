@@ -4,7 +4,7 @@ date = "2017-07-10T15:54:21+00:00"
 description = ""
 images = []
 tags = []
-title = "s02e03: The Tortured God's Wail "
+title = "S02E03: The Tortured God's Wail "
 
 +++
 *Session Date: 6/4/2017*
