@@ -56,7 +56,7 @@ Flynn *webs* Over-Captain Kliax and Eld Warrior #1, and Ovek moves in to help Ma
 
 You'd think this all would be enough for one session, but no, there's more!
 
-The party decides that before they leave, they'd better shut down the second and third floor control rooms. They need to do it quickly, which means increased risk of being sucked into another INTERDIMENSIONAL RIFT.
+The party decides that before they leave, they'd better shut down the second and third floor control rooms. They need to do it quickly, which means increased risk of triggering another INTERDIMENSIONAL RIFT incident.
 
 So they decide make the attempt from as safe a distance as possible. Marvus quaffs a *levitate* potion (first potion use in the campaign?) allowing him to attack the huge bay window from outside the building. It immediately shatters. The explosion of glass shards sends him back to zero hit points, this time with no remaining *will to live*.
 
