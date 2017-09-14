@@ -1,41 +1,42 @@
 +++
 date = "2017-09-15T00:00:00-04:00"
-title = "S02E05: Circumnavigation"
+title = "S02E05: The Further Adventures of Bubbly the Bubble Car"
 type = ""
 
 +++
 *Session Date: 09/05/2017*
 
-The party begins this session on the north shore of what is conclusively revealed to be an island, and end it back in the Corpselvator, ascending to the mysteries Fourth Floor. Along the way, they:
+This session begins on the north shore of what is conclusively revealed to be an island, and ends back in the Corpselvator, ascending to the mysteries Fourth Floor. Along the way, some stuff happens, including:
 
-* Get ambushed at the fueling station (Area 17), and encounter a new monster: brutish giants with metal skullcaps, who attack (and damage) the bubble car! Ovek mind controls one into attacking the accompanying Eld warriors instead. Also present at the ambush is the Eldish psychonaut Mindseer Vixxel. He doesn't survive.
+<!--more-->
 
-* Are followed into the mist by another bubble car. A bubble car dogfight ensues, and the Eld pilot is driven away by the party's superior firepower (Flynn's *shatter* spell.) The party's bubble car takes more damage and expends a lot of fuel on *fireballs*.
+* The party is ambushed at the fueling station (Area 17), and encounter a new monster: brutish giants with metal skullcaps, who attack (and damage) Bubbly! Ovek mind controls one of the giants into attacking the accompanying Eld warriors instead. Also present at the ambush is the Eldish psychonaut Mindseer Vixxel. He doesn't survive.
 
-* Emerge from the mist in an back the party's original arrival point from four sessions back (Area 15), and confirm island status by flying south along the coast and back to familiar areas. Along the way they enjoy the following sights from the lofty height of the bubble car cockpit:
+* The party is followed into the mist by another bubble car. A dogfight ensues, and the Eld pilot is driven away by Bubbly's additional firepower (Flynn's *shatter* spell.) Bubbly also takes some damage, and expends some extra fuel on *fireballs*.
+
+* The party emerges from the mist back at the original arrival point (Area 15, S02E01) and confirm island status by flying south along the coast and back to familiar areas. Along the way, new sights are enjoyed from the lofty height of Bubbly's cockpit:
 
     ![Area Map](/uploads/session-5-area-map.png)
 
-    * Area 14: An egg-shaped building surrounded by fields of an alien crop, worked by what appear to be humans slaves.
+    * An egg-shaped building surrounded by fields of an alien crop, worked by what appear to be humans slaves (Area 14.)
 
-    * Area 13: Ruins of a manor house.
+    * : Ruins of a manor house (Area 13.)
 
-    * Area 12: A large inverted pyramid.
+    * : A large inverted pyramid (Area 12.)
 
-    * Area 5: Dead-eyed fae and forest creatures line dancing in a concrete enclosure.
+    * : Dead-eyed fae and forest creatures line dancing in a concrete enclosure (Area 5.)
 
-    * Area 18: A small island containing nothing but a black obelisk with a shimmering doorway.
-    
-    
-* Notice that the environment of the island seems to be changing. It's notably warmer, and small plants are sprouting at various points in the landscape.
+    * : A small island containing nothing but a black obelisk with a shimmering doorway (Area 18.)
+       
+* The party notices that the environment of the island seems to be changing. It's notably warmer, and small plants are sprouting at various points in the landscape.
 
-* Become mildly concerned about the way the *Wand of Cure Wounds* is attempting to impose lawfulness on Flynn every time it's used.
+* The party becomes mildly concerned about the way the *Wand of Cure Wounds* is attempting to impose lawfulness on Flynn every time it's used.
 
-* Make a dramatic vehicular entrance and park the bubble car on the third floor of the floating god-torture facility (Area 3), where work to repair the party's carnage is already underway. Marvus and Grimbok make quick work of Uber-Lieutenant Mozz and his plasma-torch-weilding techs, and the party procedes to the fourth floor. Hopefully the bubble car will still be there when they get back...
+* The party makes a dramatic vehicular entrance and parks Bubbly on the third floor of the floating god-torture facility (Area 3), where work to repair the party's carnage is already underway. Marvus and Grimbok make quick work of Uber-Lieutenant Mozz and his plasma-torch-weilding techs, and the party procedes to the fourth floor. Hopefully Bubbly will still be there when they get back...
 
 ## Session MVPC
 
-* A 3-way tie! Everyone gets a medal.
+* Bubbly
 
 ## Foes Vanquished
 
