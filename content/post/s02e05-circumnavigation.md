@@ -20,13 +20,13 @@ This session begins on the north shore of what is conclusively revealed to be an
 
     * An egg-shaped building surrounded by fields of an alien crop, worked by what appear to be humans slaves (Area 14.)
 
-    * : Ruins of a manor house (Area 13.)
+    * Ruins of a manor house (Area 13.)
 
-    * : A large inverted pyramid (Area 12.)
+    * A large inverted pyramid (Area 12.)
 
-    * : Dead-eyed fae and forest creatures line dancing in a concrete enclosure (Area 5.)
+    * Dead-eyed fae and forest creatures line dancing in a concrete enclosure (Area 5.)
 
-    * : A small island containing nothing but a black obelisk with a shimmering doorway (Area 18.)
+    * A small island containing nothing but a black obelisk with a shimmering doorway (Area 18.)
        
 * The party notices that the environment of the island seems to be changing. It's notably warmer, and small plants are sprouting at various points in the landscape.
 
