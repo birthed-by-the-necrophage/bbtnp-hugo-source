@@ -6,3 +6,9 @@ type = ""
 
 +++
 _Session Date: 09/05/2017_
+
+
+### Foes Vanquished
+
+* 2 Vat Giants
+* 15 (or so) Eld Warriors
