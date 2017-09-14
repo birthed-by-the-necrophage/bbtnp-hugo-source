@@ -5,8 +5,6 @@ title = "S02E05: Circumnavigation"
 type = ""
 
 +++
-
-
 *Session Date: 09/05/2017*
 
 The party begins this session on the north shore of what is conclusively revealed to be an island, and end it back in the Corpselvator, ascending to the mysteries Fourth Floor. Along the way, they:
@@ -15,11 +13,21 @@ The party begins this session on the north shore of what is conclusively reveale
 
 * Are followed into the mist by another bubble car. A bubble car dogfight ensures, and the Eld pilot is driven away by the party's superior firepower (Flynn's *shatter* spell.) The party's bubble car takes more damage and expends a lot of fuel on *fireballs*.
 
-*
+* Emerge from the mist in an back the party's original arrival point from four sessions back (Area 15), and confirm island status by flying south along the coast and back to familiar areas. Along the way they enjoy the following sights from the lofty height of the bubble car cockpit:
 
+    * Area 14: An egg-shaped building surrounded by fields of some sort of crop, worked by what appear to be humans slaves.
+
+    * Area 13: Ruins of a manor house.
+
+    * Area 12: A large inverted pyramid.
+
+    * Area 5: Dead-eyed fae and forest creatures line dancing in a concrete enclosure.
+
+    * Area 18: A small island containing nothing but a black obelisk with a shimmering doorway.
+    
 * Notice that the environment of the island seems to be changing. It's notably warmer, and small plants are sprouting at various points in the landscape.
 
-* Make a dramatic enterence and park the bubble car on the third floor of the floating god-torture facility, where work to repair the party's carnage is already underway. Marvus and Grimbok make quick work of Uber-Lieutenant Mozz and his plasma-torch-weilding techs, and the party procedes to the fourth floor. Hopefully the bubble car will still be there when they get back...
+* Make a dramatic vehicular entrance and park the bubble car on the third floor of the floating god-torture facility (Area 3), where work to repair the party's carnage is already underway. Marvus and Grimbok make quick work of Uber-Lieutenant Mozz and his plasma-torch-weilding techs, and the party procedes to the fourth floor. Hopefully the bubble car will still be there when they get back...
 
 ## Session MVPC
 
