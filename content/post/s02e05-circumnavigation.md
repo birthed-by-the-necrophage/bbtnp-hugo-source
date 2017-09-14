@@ -5,25 +5,25 @@ title = "S02E05: Circumnavigation"
 type = ""
 
 +++
-
-
 *Session Date: 09/05/2017*
 
 The party begins this session on the north shore of what is conclusively revealed to be an island, and end it back in the Corpselvator, ascending to the mysteries Fourth Floor. Along the way, they:
 
-Get ambushed at the fueling station (Area 17), and encounter a new monster- brutish giants with metal skullcaps, who attack and damage bubble car instead of the party. Ovek mind controls one into attacking the accompanying Eld warriors instead.
+* Get ambushed at the fueling station (Area 17), and encounter a new monster- brutish giants with metal skullcaps, who attack and damage bubble car(!) instead of the party. Ovek mind controls one into attacking the accompanying Eld warriors instead. Also present at the ambush is the Eldish psychonaut Mindseer Vixxel. He doesn't survive.
 
-Are chased into the mist by another bubble car. A bubble car
+* Are chased into the mist by another bubble car. A bubble car dog fight ensures, but the Eld pilot is driven away by the parties super firepower. (Flynn's *shatter* spell.) The party's bubble car takes more damage and expends a lot of fuel.
 
-Area 5: Dead-eyed face and forest creatures line dancing in a concrete enclosure.
+* Emerge from the mist in an back at Area 15, and confirm island status by flying south and east back to Area 5. Along the way the see the following areas from the lofty height of the bubble car cockpit:
 
-Area14: An egg-shaped building surrounded by fields of some sort of crop, worked by what appear to be humans slaves.
+    * Area14: An egg-shaped building surrounded by fields of some sort of crop, worked by what appear to be humans slaves.
 
-Area 13: Ruins of a manor house.
+    * Area 13: Ruins of a manor house.
 
-Area 12: A large inverted pyramid.
+    * Area 12: A large inverted pyramid.
 
-Area 18: A small island containing nothing but a black obelisk with a shimmering doorway.
+    * Area 5: Dead-eyed face and forest creatures line dancing in a concrete enclosure.
+
+    * Area 18: A small island containing nothing but a black obelisk with a shimmering doorway.
 
 ## Session MVPC
 
