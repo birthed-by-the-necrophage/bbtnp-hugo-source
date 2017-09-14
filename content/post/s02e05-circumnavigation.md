@@ -21,5 +21,5 @@ _Session Date: 09/05/2017_
 ## Loot Obtained
 
 * Bubblecar fuel
-* Vibro-axe
-* Shock Trident
+* ber-Lieutenant Mozz's Vibro-axe
+* Mindseer Vixxel's Shock Trident
