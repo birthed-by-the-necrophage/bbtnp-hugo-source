@@ -15,9 +15,9 @@ The party begins this session on the north shore of what is conclusively reveale
 
 * Emerge from the mist in an back the party's original arrival point from four sessions back (Area 15), and confirm island status by flying south along the coast and back to familiar areas. Along the way they enjoy the following sights from the lofty height of the bubble car cockpit:
 
-    ![Campaign Map](/images/session-5-area-map.png)
+    ![Area Map](/uploads/session-5-area-map.png)
 
-    * Area 14: An egg-shaped building surrounded by fields of some sort of crop, worked by what appear to be humans slaves.
+    * Area 14: An egg-shaped building surrounded by fields of an alien crop, worked by what appear to be humans slaves.
 
     * Area 13: Ruins of a manor house.
 
