@@ -11,11 +11,13 @@ Stuff (besides killing monsters) that will earn XP. The entire party earns XP wh
 
 ## Achieved!
 
-* Session 13: Obtain wearable Eld ceramic platemail (Marvus)
+* S02E05: Charm foe into attacking an ally (Ovek)
 
-* Session 12: Learn to pilot the bubble car (Ovek)
+* S02E04: Obtain wearable Eld ceramic platemail (Marvus)
 
-* Session 12: Slay an Eld with his sword (Flynn)
+* S02E03: Learn to pilot the bubble car (Ovek)
+
+* S02E03: Slay an Eld with his sword (Flynn)
 
 ## In Progress
 
@@ -45,10 +47,6 @@ Stuff (besides killing monsters) that will earn XP. The entire party earns XP wh
 
 * Donate to charity
 
-* Charm foe into attacking an ally (Ovek)
-
 * Use healing magic to avert death (Flynn)
 
 * Intimidate someone into aiding the party (Marvus)
-
-
