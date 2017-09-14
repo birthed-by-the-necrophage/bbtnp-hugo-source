@@ -1,0 +1,24 @@
+---
+pages:
+- post/s02e05-circumnavigation.md
+- post/session-13-battle-of-the-corpselvator.md
+- post/session-12.md
+- post/session-11.md
+- post/session-10.md
+hide_body: false
+fields:
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: 2017-08-03 17:59:18 +0000
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: type
+  label: Type
+  type: text
+  hidden: false
+  default: ''

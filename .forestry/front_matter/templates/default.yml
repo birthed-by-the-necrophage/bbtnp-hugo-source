@@ -1,0 +1,34 @@
+---
+pages:
+- campaign-goals.md
+hide_body: false
+fields:
+- name: images
+  label: Images
+  type: list
+  hidden: false
+  default:
+  - "/2016/10/image.jpg"
+- name: description
+  label: Description
+  type: text
+  hidden: false
+  default: ''
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default:
+  - category
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default:
+  - tag1
+  - tag2
+- name: draft
+  label: Draft
+  type: boolean
+  hidden: false
+  default: true
