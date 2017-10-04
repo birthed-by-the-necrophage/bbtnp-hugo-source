@@ -4,19 +4,30 @@ title = "S02E05: The Further Adventures of Bubbly the Bubble Car"
 type = ""
 
 +++
-
-
 *Session Date: 08/05/2017*
 
 This session begins on the north shore of what is conclusively revealed to be an island, and ends back in the Corpselvator, ascending to the mysterious Fourth Floor. Along the way some stuff happens, including:
+
 <!--more-->
 
 * The party is ambushed at the fueling station (Area 17), and encounter a new monster: brutish giants with metal skullcaps, who attack (and damage) Bubbly! Ovek mind controls one of the giants into attacking the accompanying Eld warriors instead. Also present at the ambush is the Eldish psychonaut Mindseer Vixxel, who doesn't survive.
 
 * The party is followed into the mist by another bubble car. A dogfight ensues, and the Eld pilot is driven away by Bubbly's enhanced firepower (Flynn's *shatter* spell.) Bubbly also takes some damage, and expends some extra fuel on *fireballs*.
 
-*
+* The party emerges from the mist back at the original arrival point (Area 15) and confirm island status by flying south along the coast and back to familiar areas. Along the way, new sights are enjoyed from the lofty height of Bubbly's cockpit:
 
+    ![Area Map](/uploads/session-5-area-map.png)
+
+    * An egg-shaped building surrounded by fields of an alien crop, worked by what appear to be humans slaves (Area 14.)
+
+    * Ruins of a manor house (Area 13.)
+
+    * A large inverted pyramid (Area 12.)
+
+    * Dead-eyed fae and forest creatures line dancing in a concrete enclosure (Area 5.)
+
+    * A small island containing nothing but a black obelisk with a shimmering doorway (Area 18.)
+       
 * The party notices that the environment of the island seems to be changing. It's notably warmer, and small plants are sprouting at various points in the landscape.
 
 * The party becomes mildly concerned about the way the *Wand of Cure Wounds* is attempting to impose lawfulness on Flynn every time it's used.
