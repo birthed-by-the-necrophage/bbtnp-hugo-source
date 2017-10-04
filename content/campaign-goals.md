@@ -11,6 +11,10 @@ Stuff (besides killing monsters) that will earn XP. The entire party earns XP wh
 
 ## Achieved!
 
+* S02E06: Meet a starlord (not *that* starlord) (Ovek)
+
+* S02E06: Effectively use his *fly* ability (Ovek)
+
 * S02E05: Charm foe into attacking an ally (Ovek)
 
 * S02E04: Obtain wearable Eld ceramic platemail (Marvus)
@@ -29,8 +33,6 @@ Stuff (besides killing monsters) that will earn XP. The entire party earns XP wh
 
 * Be not evil (needs clarification)
 
-* Meet a starlord (not *that* starlord) (Ovek)
-
 * Free the area from Eld control
 
 * Invent new occult technology (Flynn)
@@ -38,8 +40,6 @@ Stuff (besides killing monsters) that will earn XP. The entire party earns XP wh
 * Teach Flynn to pilot the bubble car (Ovek)
 
 * Save the party from a TPK (Marvus)
-
-* Effectively use his *fly* ability (Ovek)
 
 * Find a *Folding Boat*
 
