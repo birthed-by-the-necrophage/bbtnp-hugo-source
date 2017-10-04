@@ -13,7 +13,7 @@ Stuff (besides killing monsters) that will earn XP. The entire party earns XP wh
 
 * S02E06: Meet a starlord (not *that* starlord) (Ovek)
 
-* S02E06: Effectively use his *fly* ability (Ovek)
+* S02E06: Effectively use his *fly* abiity (Ovek)
 
 * S02E05: Charm foe into attacking an ally (Ovek)
 
