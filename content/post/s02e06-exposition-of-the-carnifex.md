@@ -42,8 +42,7 @@ _Buildings in the map are probably not to scale._
 
 The bubble car can only ascend 100 feet and the worms rise to a full 300 feet, but the party is not willing to leave it behind. Flynn devises a cunning plan to carry the car on a _Tenser's Floating Disk_ while the party climbs. It works, though the rules justification for this &mdash;treating the climbable sides of the worm as "ground"&mdash; is perhaps a bit wonky.
 
-And now... multiple climb checks later, the party stands atop a wormy precipice, ready for a third excursion into the Eld command bunker. This time, they have a clear objective: *kill Sub-Colonel Zogg and take his stuff*. 
-
+And now... multiple climb checks later, the party stands atop a wormy precipice, ready for a third excursion into the Eld command bunker (read about the first two in the [S02E01 log](/2017/04/s02e01-city-of-the-eld/#area10).) This time, they have a clear objective: *kill Sub-Colonel Zogg and take his stuff*. 
 
 ## Session MVPC
 
