@@ -14,9 +14,9 @@ After the battle, the rest of the party takes a break while Flynn invents siphon
 
 And now it's FINALLY time to visit the Fourth Floor. Marvus suggests temporarily disabling the elevator so that the party can't be followed, and delegates the task to Ovek and Flynn.
 
-On the Forth Floor, the party meets the Carnifex, or rather, a splinter of the Carnifex. She's a goddess of torturers and executioners, simultaneously imprisoned beneath the city of Quodeth and here in the Eld torture tower. She's been waiting three sessions to offer the following infodump:
+On the Fourth Floor, the party meets the Carnifex, or rather, a splinter of the Carnifex. She's a goddess of torturers and executioners, simultaneously imprisoned beneath the city of Quodeth and here in the Eld torture tower. She's been waiting three sessions to offer the following infodump:
 
-*  By torturing the Carnifex, the The Eld have been siphoning her godly essence to power a series of linked inter-dimensional generators (as shown in the [S01E04 log](/2017/08/s02e04-the-corpselvator/#wallmap).)Given enough time, these generators will pull an ever-increasing chunk of Thule into the Eldish sub-layer of Hell. 
+*  By torturing the Carnifex, the The Eld have been siphoning her godly essence to power a series of linked inter-dimensional generators (as shown in the [S01E04 log](/2017/08/s02e04-the-corpselvator/#wallmap).) Given enough time, these generators will pull an ever-increasing chunk of Thule into the Eldish sub-layer of Hell. 
 
 * By killing off Eld officers and destroying their machinery, the party has already greatly hampered these efforts, and freeing the Carnifax will hamper them further. Unfortunately, the Eld will just keep at it unless they lose their hold on this island. 
 
