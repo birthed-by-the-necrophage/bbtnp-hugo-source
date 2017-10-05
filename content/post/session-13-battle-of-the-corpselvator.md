@@ -20,6 +20,8 @@ Marvus is very excited to discover that the Eld's ceramic plate armor looks as t
 
 Despite the unintimidatable prisoner, there is still information to be learned in the room. One wall displays a large map depicting the region of Thule the party has recently departed. Five locations are marked, connected by glowing lines forming an  irregular pentagon. Most of the lines are a solid, steady green, but two of them are red and blinking:
 
+<a name="wallmap"></a>
+
 ![Eld wall map](/uploads/session-13-map.png)
 
 Some observations are made:
