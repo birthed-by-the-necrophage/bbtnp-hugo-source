@@ -10,9 +10,9 @@ The party begins this session in the elevator on the way to the Fourth Floor... 
 
 <!--more-->
 
-After the battle, the rest of the party takes a break while Flynn siphons fuels from a bunch of plasma welders into the bubble car. Or was it the other way around? At any rate, everyone in the party now carries a fully topped-off plasma welder. 
+After the battle, the rest of the party takes a break while Flynn invents siphoning and transfers fuel from a bunch of plasma welders into the bubble car. Or was it the other way around? At any rate, everyone in the party now carries a fully topped-off plasma welder (which, due to popular demand, can now can be saved against for half damage.)
 
-And now it's FINALLY time to visit the Forth Floor. Marvus suggests temporarily disabling the elevator so that the party can't be followed, and delegates the task to Ovek and Flynn.
+And now it's FINALLY time to visit the Fourth Floor. Marvus suggests temporarily disabling the elevator so that the party can't be followed, and delegates the task to Ovek and Flynn.
 
 On the Forth Floor, the party meets the Carnifex, or rather, a splinter of the Carnifex. She's a goddess of torturers and executioners, simultaneously imprisoned beneath the city of Quodeth and here in the Eld torture tower. She's been waiting three sessions to offer the following infodump:
 
@@ -57,6 +57,6 @@ And now... multiple climb checks later, the party stands atop a wormy precipice,
 
 ## Goals Achieved
 
-* Meet a starlord (not *that* starlord) (Ovek)
+* Meet a starlord (kind of) (Ovek)
 
 * Effectively use his *fly* abiity (Ovek)
