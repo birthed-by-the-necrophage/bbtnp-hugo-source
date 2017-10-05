@@ -16,9 +16,9 @@ And now it's FINALLY time to visit the Fourth Floor. Marvus suggests temporarily
 
 On the Forth Floor, the party meets the Carnifex, or rather, a splinter of the Carnifex. She's a goddess of torturers and executioners, simultaneously imprisoned beneath the city of Quodeth and here in the Eld torture tower. She's been waiting three sessions to offer the following infodump:
 
-* The Eld have been siphoning part her godly essence to power a series of linked inter-dimensional generators. Given enough time, these generators will pull an ever-increasing chunk of Thule into the Eldish sub-layer of Hell. 
+*  By torturing the Carnifex, the The Eld have been siphoning her godly essence to power a series of linked inter-dimensional generators (as shown in the [S01E04 log]{/2017/08/s02e04-the-corpselvator/#wallmap}.)Given enough time, these generators will pull an ever-increasing chunk of Thule into the Eldish sub-layer of Hell. 
 
-* By killing off Eld officers and destroying their machinery, the party has already greatly hampered these efforts, and freeing the Carnifax will hamper them further. Unfortunately, the Eld will just keep at it unless they lose their hold on this island, which is already mostly pulled in to their dimension. 
+* By killing off Eld officers and destroying their machinery, the party has already greatly hampered these efforts, and freeing the Carnifax will hamper them further. Unfortunately, the Eld will just keep at it unless they lose their hold on this island. 
 
 * To make this happen, the party needs to kill _more_ Eld and/or destroy _more_ Eldish infrastructure on the island.  Destroying the Vat Facility (Area 11) or killing Sub-Colonel Zogg in his command bunker in the Pagoda City (Area 10) are both likely to do the trick. Either action will break the Eld's hold on the island and it will drift fully back to the material plane. When that happens happens, the Eld will flee, not wanting to waste more resources on the failing Thule project.
 
@@ -39,7 +39,7 @@ Ovek flys up to take a look, and discovers that the entire Pagoda City and Vat C
 
 _Buildings in the map are probably not to scale._
 
-The bubble car can only ascend 100 feet and the worms rise to a full 300 feet, but the party is not willing to leave it behind. Flynn devises a cunning plan to carry the car on a _Tenser's Floating Disk_ while the party climbs. It works, though the rules justification for this &mdash;treating the climbable sides of the worm as "ground"&mdash; is perhaps a bit wonky.
+The bubble car can only ascend 100 feet, and the worms rise to a full 300 feet, but the party is not willing to leave it behind. Flynn devises a cunning plan to carry the car on a _Tenser's Floating Disk_ while the party climbs. It works, though the rules justification for this &mdash;treating the climbable sides of the worm as "ground"&mdash; is perhaps a bit wonky.
 
 And now... multiple climb checks later, the party stands atop a wormy precipice, ready for a third excursion into the Eld command bunker (read about the first two in the [S02E01 log](/2017/04/s02e01-city-of-the-eld/#area10).) This time, they have a clear objective: *kill Sub-Colonel Zogg and take his stuff*. 
 
