@@ -34,6 +34,8 @@ An island with boat docks. Viewed but not visited.
 
 Peasant-henge. Spells cast inside the henge will have their effects doubled.
 
+<a name="area10"></a>
+
 ### Area 10
 
 Pagoda city. Six streets of identical buildings (found to be empty facades) radiate from a central tower with a single entrance. The party makes two excursions into the tower.
