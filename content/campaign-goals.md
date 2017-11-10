@@ -11,6 +11,10 @@ Stuff (besides killing monsters) that will earn XP. The entire party earns XP wh
 
 ## Achieved!
 
+* S02E07: Show mercy
+
+* S02E07: Use healing magic to avert death (Flynn)
+
 * S02E06: Meet a starlord (not *that* starlord) (Ovek)
 
 * S02E06: Effectively use his *fly* abiity (Ovek)
@@ -43,10 +47,6 @@ Stuff (besides killing monsters) that will earn XP. The entire party earns XP wh
 
 * Find a *Folding Boat*
 
-* Show mercy
-
 * Donate to charity
-
-* Use healing magic to avert death (Flynn)
 
 * Intimidate someone into aiding the party (Marvus)
