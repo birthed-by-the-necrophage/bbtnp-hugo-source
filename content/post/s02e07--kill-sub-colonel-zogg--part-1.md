@@ -23,7 +23,7 @@ Some stuff that happened:
 
 * Marvus scouts a dead-end hallway and triggers would have been the gelatinous cube trap (room 17.)
 
-* The party finds a doorway guarded by six elite Eld warriors, armed with vibro-axes and wearing ceramic plate (room 12.) Ovek kicks off the battle with an effective area attack, knocking several Eld prone, but the battle is long and arduous. Grimbok and Marvus go down several times, allowing the some Eld to reach the spellcasters, where it is revealed that Flynn has a crazy-high AC. 
+* The party finds a doorway guarded by six elite Eld warriors, armed with vibro-axes and wearing ceramic plate (room 12.) Ovek kicks off the battle with an effective area attack, knocking several Eld prone, but the battle is long and arduous. Grimbok and Marvus go down several times, allowing  some Eld to reach the spellcasters, and it is revealed that Flynn has a crazy-high AC. 
 
 * At the end of the battle, the Eld guards are dead, but the party is almost completely drained of resources. Flynn casts  *Leomond's Tiny Hut*, which fills the entire room and blocks both entrances (room 12.) This leaves the DM to try and figure out how the Eld will react to an immobile dome of force blocking a very prominent passageway in the middle of their command bunker (looks up *dispel magic*.)
 
