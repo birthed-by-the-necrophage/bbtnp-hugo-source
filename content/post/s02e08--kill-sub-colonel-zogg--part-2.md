@@ -16,7 +16,7 @@ While the party takes a long rest, the Eld investigate the situation and attempt
 
 Unfortunately for them, Marvus doesn't actually need a long rest, and spends his time pole-arming the work crew from the safety of the hut. After Marvus takes out a four-armed ape and a fleeing tech (thanks to his fancy new Sentinel feat,) the Eld techs decide that the antechamber is too hostile a work environment. They bypass it by cutting some holes into the ceiling, and eventually cut the eastern door from the safety of whatever room lies directly to the east of the antechamber.
 
-That room, of course, is the inner sanctum of Sub-Colonel Zogg himself. When the _hut_ reaches it duration limit and disapates, the party finds him waiting behind his desk, fully helmeted and plate-armored. He has a double-barrel razor disc gun and and is sporting a creepy mass of acid-coated tentacles where his left arm should be. He's accompanied by Mid-Altern Virmuun (the only other officer the party hasn't killed yet,) a bunch of guards, a four-armed white ape, and several supplicating Eldman (human slaves who wear Eld-shaped prosthetic foreheads on their real heads.) 
+That room, of course, is the inner sanctum of Sub-Colonel Zogg himself. When the _hut_ reaches its duration limit and disapates, the party finds him waiting behind his desk, fully helmeted and plate-armored. He has a double-barrel razor disc gun and and is sporting a creepy mass of acid-coated tentacles where his left arm should be. He's accompanied by Mid-Altern Virmuun (the only other officer the party hasn't killed yet,) a bunch of guards, a four-armed white ape, and several supplicating Eldman (human slaves who wear Eld-shaped prosthetic foreheads on their real heads.) 
 
 ![Area Map](/uploads/session_8.png)
 
