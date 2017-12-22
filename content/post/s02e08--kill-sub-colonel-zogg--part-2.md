@@ -5,3 +5,5 @@ title = "S02E08: Kill Sub-Colonel Zogg, part 2"
 type = ""
 
 +++
+![Area Map](/uploads/session_7.png)
+
