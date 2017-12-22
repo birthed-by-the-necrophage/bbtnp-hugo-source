@@ -33,6 +33,9 @@ Stuff (besides killing monsters) that will earn XP. The entire party earns XP wh
 
 ## In Progress
 
+* Free the Carnifex from her prison beneath Quodeth
+    * (subgoal) Find the exact location of the prison 
+
 * Return to civilization with as much loot as possible
 
 * Become an archmage (Flynn)
