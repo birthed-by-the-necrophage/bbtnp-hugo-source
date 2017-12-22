@@ -11,6 +11,10 @@ Stuff (besides killing monsters) that will earn XP. The entire party earns XP wh
 
 ## Achieved!
 
+* S02E08: Free the area from Eld control
+
+* S02E08: Kill Sub-Colonel Zogg
+
 * S02E07: Show mercy
 
 * S02E07: Use healing magic to avert death (Flynn)
