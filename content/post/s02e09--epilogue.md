@@ -11,4 +11,4 @@ Sub-Colonel Zogg has been defeated, the Eld are organizing a mass evacuation, an
 
 <!--more-->
 
-It's decided that the best course of action is to sneak (on foot like lowly plebs) back to the 
+It's decided that the best course of action is to sneak (on foot like lowly plebs) back to the Vat Complex and hope for another bubble car to steal. 
