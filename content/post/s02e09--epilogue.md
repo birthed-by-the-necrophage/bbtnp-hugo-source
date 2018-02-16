@@ -40,7 +40,7 @@ And so, with everything sorted and the galley loaded with as much loot as possib
 * New bubble car
 * A galley and its crew
 * Bubble car fuel
-* Maybe some other stuff to be retroactively determined becasue we didn't get around to talking about it
+* Maybe some other stuff, TBD becasue we didn't get around to talking about it
 
 ## Goals Achieved
 
