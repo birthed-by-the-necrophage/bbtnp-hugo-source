@@ -23,4 +23,25 @@ The plan doesn't work at all (maybe because Lord Vumpf has seen Star Wars,) so 
 
 Lord Vumpf grudgingly acquiesces, but, in an attempt to save face in front of his troops, "orders" the party to take possession of the bubble car hanger, and orders the remaining Eld on the island to leave the party alone. He also begins formulating secret plans take revenge on the party as the plot of a future adventure.
 
-So now the party has free run of the island, and, it turns out, a shiny new bubble car waiting for them at the bubble car hanger. Over the next few days, the party works out how to best pack up their loot and leave the island. Instead of flying out in the bubble car and wasting limited fuel, they load it into the galley docked on the small northern island  (Area 17.) They also load as much bubble car fuel as possible into a makeshift storage tank on the galley. The human crop workers (Area 14) turn out to be the galley's former crew, and they're happy to crew the galley in exchange for transportation of the island.
+Now the party has free run of the island, and, it turns out, a shiny new bubble car waiting for them at the bubble car hanger. Over the next few days, the party works out how to best pack up their loot and leave the island. Instead of flying out in the bubble car and wasting limited fuel, they load it into the galley docked on the small northern island  (Area 17.) They also load as much bubble car fuel as possible into a makeshift storage tank on the galley. The human crop workers (Area 14) turn out to be the galley's former crew, and they're happy to crew the galley in exchange for transportation of the island.
+
+And so, with everything sorted and the galley loaded with as much loot as possible, the party sets off for their first visit to civilization since the campaign started, where they hope to find a trapped chaos god and maybe some magic items for sale.
+
+## Session MVPC
+
+* Marvus
+
+## Foes Vanquished
+
+* None!
+
+## Loot Obtained
+
+* New bubble car
+* A galley and its crew
+* Bubble car fuel
+* Maybe some other stuff to be retroactively determined becasue we didn't get around to talking about it
+
+## Goals Achieved
+
+Intimidate someone into aiding the party (Marvus)
