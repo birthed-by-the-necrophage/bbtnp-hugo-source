@@ -13,7 +13,7 @@ Sub-Colonel Zogg has been defeated, the Eld are organizing a mass evacuation, an
 
 It's decided that the best course of action is to sneak back to the bubble car hanger at the Vat Complex --on foot like lowly plebs-- and hope for another bubble car to steal. Sneaking is not something the party is particularly good at, unfortunately. While attempting to move past a large group of techs setting up portal machinery on the Pagoda City plaza, they are spotted by the last officer remaining on the island: Lord Vumpf.
 
-Flynn hides behind a building while Ovek and Marvus execute an plan to charisma their way out of the situation:
+Flynn hides behind a building while Ovek and Marvus execute an plan to talk their way out of the situation:
 
 * Marvus is wearing Eld ceramic plate, and thus can attempt to pose as an Eld officer escorting Grimbok and Ovek as prisoners.
 * Except that Marvus doesn't speak Eldish at all, so their cover will be blown as soon as he needs to communicate with Lord Vumpf.
