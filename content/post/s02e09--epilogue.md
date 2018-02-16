@@ -19,8 +19,8 @@ Flynn hides behind a building while Ovek and Marvus execute an plan to charisma 
 * Except that Marvus doesn't speak Eldish at all, so their cover will be blown as soon as he needs to communicate with Lord Vumpf.
 * But! Ovek can speak telepathically in any language, so he responds telepathically to Lord Vumpf, hoping to make it appear that it's really Marvus doing the "talking."
 
-This doesn't work at all (maybe because Lord Vumpf has seen Star Wars,) so Marvus switches to a hastily improvised Plan B. After a quick shock-and-awe pole arm attack relieves Lord Vumpf of many hit points, Marvus offers an ultimatum: Lord Vumpf can give the party a bubble car and in exchange the Eld can continue to peaceably evacuate, or Lord Vumpf can die at the party's hand like all of the other officers on the island.
+This doesn't work at all (maybe because Lord Vumpf has seen Star Wars,) so Marvus switches to a hastily improvised Plan B. After a quick shock-and-awe pole arm attack relieves Lord Vumpf of many hit points, Marvus offers an ultimatum: Lord Vumpf can give the party a bubble car, and in exchange the Eld can continue to peaceably evacuate, or Lord Vumpf can die at the party's hand like all of the other officers on the island.
 
-Lord Vumpf grudgingly acquiesces, but, in an attempt to save face in front of his troops, "orders" the party to take possession of the bubble car hanger, and orders the remaining Eld on the island to leave the party alone. (He likely also begins formulating secret plans take revenge on the party as the plot of a future adventure.)
+Lord Vumpf grudgingly acquiesces, but, in an attempt to save face in front of his troops, "orders" the party to take possession of the bubble car hanger, and orders the remaining Eld on the island to leave the party alone. (He also begins formulating secret plans take revenge on the party as the plot of a future adventure.)
 
-So know, the party 
+So now the party has free run of the island, and, it turns out, a shiny new bubble car waiting for them at the bubble car hanger. Further scouting of the island turns up a bunch of human sailors at who the Eld had forced into 
