@@ -11,16 +11,16 @@ Sub-Colonel Zogg has been defeated, the Eld are organizing a mass evacuation, an
 
 <!--more-->
 
-It's decided that the best course of action is to sneak back to the Vat Complex --on foot like lowly plebs-- and hope for another bubble car to steal. Sneaking is not something the party is particularly good at, unfortunately. They are spotted by Lord Vumpf (the last surviving officer on the island) as he and a large group of techs are setting portal generating machinery on the Pagoda City plaza. Lord Vumpf is old and rides around in a force-field protected hover chair.
+It's decided that the best course of action is to sneak back to the bubble car hanger at the Vat Complex --on foot like lowly plebs-- and hope for another bubble car to steal. Sneaking is not something the party is particularly good at, unfortunately. While attempting to move past a large group of techs setting up portal machinery on the Pagoda City plaza, they are spotted by the last officer remaining on the island: Lord Vumpf.
 
-Flynn hides behind a building while Ovek and Marvus execute an plan to charisma their way out of the situation, as follows:
+Flynn hides behind a building while Ovek and Marvus execute an plan to charisma their way out of the situation:
 
 * Marvus is wearing Eld ceramic plate, and thus can attempt to pose as an Eld officer escorting Grimbok and Ovek as prisoners.
 * Except that Marvus doesn't speak Eldish at all, so their cover will be blown as soon as he needs to communicate with Lord Vumpf.
 * But! Ovek can speak telepathically in any language, so he responds telepathically to Lord Vumpf, hoping to make it appear that it's really Marvus doing the "talking."
 
-This doesn't work at all (maybe because Lord Vumpf has seen Star Wars,) so Marvus switches to a hastily improvised Plan B. After a quick shock-and-awe pole arm attack relieves Lord Vumpf of many hit points, Marvus offers an ultimatum: Lord Vumpf can give the party a bubble car, and in exchange the Eld can continue to peaceably evacuate, or Lord Vumpf can die at the party's hand like all of the other officers on the island.
+The plan doesn't work at all (maybe because Lord Vumpf has seen Star Wars,) so Marvus switches to a hastily improvised Plan B. After a quick shock-and-awe pole arm attack relieves Lord Vumpf of many hit points, Marvus offers an ultimatum: Lord Vumpf can give the party a bubble car, and in exchange the Eld can continue to peaceably evacuate. OR, Lord Vumpf can die at the party's hand like all of the other officers on the island.
 
-Lord Vumpf grudgingly acquiesces, but, in an attempt to save face in front of his troops, "orders" the party to take possession of the bubble car hanger, and orders the remaining Eld on the island to leave the party alone. (He also begins formulating secret plans take revenge on the party as the plot of a future adventure.)
+Lord Vumpf grudgingly acquiesces, but, in an attempt to save face in front of his troops, "orders" the party to take possession of the bubble car hanger, and orders the remaining Eld on the island to leave the party alone. He also begins formulating secret plans take revenge on the party as the plot of a future adventure.
 
-So now the party has free run of the island, and, it turns out, a shiny new bubble car waiting for them at the bubble car hanger. Further scouting of the island turns up a bunch of human sailors at who the Eld had forced into 
+So now the party has free run of the island, and, it turns out, a shiny new bubble car waiting for them at the bubble car hanger. Over the next few days, the party works out how to best pack up their loot and leave the island. Instead of flying out in the bubble car and wasting limited fuel, they load it into the galley docked on the small northern island  (Area 17.) They also load as much bubble car fuel as possible into a makeshift storage tank on the galley. The human crop workers (Area 14) turn out to be the galley's former crew, and they're happy to crew the galley in exchange for transportation of the island.
