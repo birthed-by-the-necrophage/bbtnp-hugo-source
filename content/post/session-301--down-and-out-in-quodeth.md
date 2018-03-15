@@ -5,15 +5,15 @@ title = "Session 301: Down and out in Quodeth"
 type = ""
 
 +++
-_Session date 02/17/2017, Dave's house_
+_Session date 02/17/2017, Dave's house._
 
-In which the Party arrives in Quodeth on their  loot-laden galley with three goals: sell stuff, buy stuff, and release a chaos god.
+_In which the Party arrives in Quodeth on their  loot-laden galley with three goals: sell stuff, buy stuff, and release a chaos god._
 
-## Notable Events:
+<!--more-->
 
-### Downtime
+## Downtime
 
-The party secures a space and the "good docks" in the Canal Quarter, and quickly get to work on downtime activities:
+The party secures a space at the "good docks" in the Canal Quarter, and quickly gets going on some non-adventuring activities:
 
 * Marvus carouses all over town to make some contacts, and then works on flooding Qudoeth with vast amounts of loot (which includes arming the Seven Knives with a cache of Eldish melee weapon.)
 * Ovek and Flynn research the magimechanical workings of the bubble car, and end up creating a "Repair Bubblecar" spell.
@@ -21,8 +21,8 @@ The party secures a space and the "good docks" in the Canal Quarter, and quickly
 * The order has been placed and paid, but the items haven't arrived yet (RETCON ALERT.)
 * All said, these activities took 6 weeks of game time.
 
-### The Search for Itrep
+## The Search for Itrep
 
-With the business and research activities wrapped up, the party begins it's quest to free The Carnifex from her prison beneath Quodeth. 
+With the business transactions and research wrapped up, the party begins it's quest to free The Carnifex from her prison beneath Quodeth.
 
 This means talking to the wizard Itrep, who (according to The Carnifex-splinter on the Eld island,) knows where exactly the prison is. Turns out Itrep is missing, though, and information on his whereabouts must be gathered.
