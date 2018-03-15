@@ -1,11 +1,11 @@
 +++
 date = "2018-03-15T12:54:39+00:00"
 draft = true
-title = "Session 301: City of Thieves"
+title = "SO3E01: City of Thieves"
 type = ""
 
 +++
-02/17/2017, Dave's house
+_Session date 02/17/2017, Dave's house_
 
 _In which the Party arrives in Quodeth on their  loot-laden galley with three goals: sell stuff, buy stuff, and release a chaos god._
 
