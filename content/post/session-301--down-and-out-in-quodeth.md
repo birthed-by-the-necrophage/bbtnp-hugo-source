@@ -5,7 +5,7 @@ title = "Session 301: City of Thieves"
 type = ""
 
 +++
-_Session date 02/17/2017, Dave's house._
+02/17/2017, Dave's house
 
 _In which the Party arrives in Quodeth on their  loot-laden galley with three goals: sell stuff, buy stuff, and release a chaos god._
 
