@@ -23,6 +23,8 @@ The party secures a space at the "good docks" in the Canal Quarter, and quickly 
 
 ## The Search for Itrep
 
+![Quodeth Map](/uploads/e03e01_map.png)
+
 With the business transactions and research wrapped up, the party begins it's quest to free The Carnifex from her prison beneath Quodeth.
 
 This means talking to the wizard Itrep, who (according to The Carnifex-splinter on the Eld island,) knows where exactly the prison is. Turns out Itrep is missing, though, and information on his whereabouts must be gathered. This leads to a series of encounters with several of Itrep's associates, each of home has information to give and want something in return:
