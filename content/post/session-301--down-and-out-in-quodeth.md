@@ -1,7 +1,7 @@
 +++
 date = "2018-03-15T12:54:39+00:00"
 draft = true
-title = "SO3E01: City of Thieves"
+title = "S03E01: City of Thieves"
 type = ""
 
 +++
