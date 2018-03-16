@@ -37,7 +37,7 @@ The Party accepts all the offers.
 
 ## Session MVPC
 
-* This feature is too hard and has been discontinued
+* This feature is too hard and has been discontinued!
 
 ## Foes Vanquished
 
