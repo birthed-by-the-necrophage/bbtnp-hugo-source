@@ -63,6 +63,7 @@ From Osgood:
 
 ## Goals Achieved
 
+* 7th level
 * Return to civilization with as much loot as possible
 * Invent new occult technology (Flynn)
 
