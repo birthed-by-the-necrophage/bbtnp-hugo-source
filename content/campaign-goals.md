@@ -11,6 +11,8 @@ Stuff (besides killing monsters) that will earn XP. The entire party earns XP wh
 
 ## Achieved!
 
+* S03E01: Invent new occult technology (Flynn)
+* S03E01: Return to civilization with as much loot as possible
 * S02E09: Intimidate someone into aiding the party (Marvus)
 * S02E08: Free the area from Eld control
 * S02E08: Kill Sub-Colonel Zogg
@@ -25,12 +27,15 @@ Stuff (besides killing monsters) that will earn XP. The entire party earns XP wh
 
 ## In Progress
 
+* Find Itrep and get him to reveal the Carnifex's location
+* Retrieve 15,000 gp from Itrep for Fat Julie
+* Retrieve the _pipes of Minzoa_ from Itrep's tower for Faisal
+* Retrieve the _Minzoa Sextant Minzoa_ from Itrep's tower for Osgood
+* Retrieve a crystal plate from Itrep's tower for Michalena
 * Free the Carnifex from her prison beneath Quodeth
-* Return to civilization with as much loot as possible
 * Become an archmage (Flynn)
 * Achieve divinity (Marvus)
 * Be not evil (needs clarification)
-* Invent new occult technology (Flynn)
 * Teach Flynn to pilot the bubble car (Ovek)
 * Save the party from a TPK (Marvus)
 * Find a _Folding Boat_
