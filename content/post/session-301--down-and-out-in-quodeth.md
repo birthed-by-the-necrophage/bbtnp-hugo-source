@@ -4,7 +4,7 @@ title = "S03E01: City of Thieves"
 type = ""
 
 +++
-_Session date 02/17/2017, Dave's house_
+_Session date: 02/17/2017, Dave's house_
 
 _In which the Party arrives in Quodeth on their  loot-laden galley with three goals: sell stuff, buy stuff, and release a chaos god._
 
