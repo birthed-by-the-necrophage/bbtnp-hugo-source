@@ -28,11 +28,15 @@ With the business transactions and research wrapped up, the party begins it's qu
 This means talking to the wizard Itrep, who (according to The Carnifex-splinter on the Eld island,) knows where exactly the prison is. Turns out Itrep is missing, though, and information on his whereabouts must be gathered. This leads to a series of encounters with several of Itrep's associates, each of home has information to give and want something in return:
 
 * Fat Julie, halfling proprietor of the Fight Pit, offers the party 5000 gp to track down Itrep an relieve him of 15,000 gp (the amount Irtep owes Julie in gampling debts, payment to the party comes from the 15,000 gp)
-* Faisal Dhaken, an evil looking turbaned wizard, offers the party 5,000 gp and several magic items to enter Itrep's tower and retrieve the _pipes of Minzoa_ 
+* Faisal Dhaken, an evil looking turbaned wizard, offers the party 5,000 gp and several magic items to enter Itrep's tower and retrieve the _pipes of Minzoa_
 * Osgood Flumph, another wizard, offers the party 4,000 gp, a 500 gp diamond, and several magic items to enter Itrep's tower and retrieve the _Minzoa  Sextant._ He also reveals the solution to a puzzle-trap he helped build on the first floor of the tower, and says there's lots of good treasure on the sixth floor. Negotiations are handled by Flynn and Ovek while Marvus and Grimbok (having failed saves) flee in terror from the Wizard's Familiar tavern, which only admits arcane spell casters.
 * Michalena, Irtep's former girlfriend, reveals the password to the towers's ground floor entrance, in exchange for 500 gp and a promise to retrieve a crystal dish that she liked. Negotiations are handled solely by Marvus, who has to win a duel to join the racist (humans only) Pride of Waymarch fighter's club to gain access to Michalena.
 
 The Party accepts all the offers.
+
+## Session MVPC
+
+* This feature is too hard and has been discontinued
 
 ## Foes Vanquished
 
@@ -54,4 +58,17 @@ From Osgood:
 * _potion of fly_
 * another _potion of invisibility_
 * another _lightning bolt scroll_
-* _wand of magic missile_ 
+* _wand of magic missile_
+
+## Goals Achieved
+
+* Return to civilization with as much loot as possible
+* Invent new occult technology (Flynn)
+
+## New Goals
+
+* Find Itrep and get him to reveal the Carnifex's location
+* Retrieve 15,000 gp from Itrep for Fat Julie
+* Retrieve the _pipes of Minzoa_ from Itrep's tower for Faisal
+* Retrieve the _Minzoa Sextant Minzoa_ from Itrep's tower for Osgood
+* Retrieve a crystal plate from Itrep's tower for Michalena
