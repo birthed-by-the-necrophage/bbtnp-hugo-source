@@ -1,7 +1,6 @@
 ---
-pages:
-- campaign-goals.md
 hide_body: false
+is_partial: false
 fields:
 - name: images
   label: Images
@@ -32,3 +31,5 @@ fields:
   type: boolean
   hidden: false
   default: true
+pages:
+- campaign-goals.md

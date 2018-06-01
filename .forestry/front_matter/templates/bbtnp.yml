@@ -1,16 +1,6 @@
 ---
-pages:
-- post/session-301--down-and-out-in-quodeth.md
-- post/s02e09--epilogue.md
-- post/s02e08--kill-sub-colonel-zogg--part-2.md
-- post/s02e07--kill-sub-colonel-zogg--part-1.md
-- post/s02e06-exposition-of-the-carnifex.md
-- post/s02e05-circumnavigation.md
-- post/session-13-battle-of-the-corpselvator.md
-- post/session-12.md
-- post/session-11.md
-- post/session-10.md
 hide_body: false
+is_partial: false
 fields:
 - name: date
   label: Date
@@ -27,3 +17,15 @@ fields:
   type: text
   hidden: false
   default: ''
+pages:
+- post/s03e02--tower-assault-ii.md
+- post/session-301--down-and-out-in-quodeth.md
+- post/s02e09--epilogue.md
+- post/s02e08--kill-sub-colonel-zogg--part-2.md
+- post/s02e07--kill-sub-colonel-zogg--part-1.md
+- post/s02e06-exposition-of-the-carnifex.md
+- post/s02e05-circumnavigation.md
+- post/session-13-battle-of-the-corpselvator.md
+- post/session-12.md
+- post/session-11.md
+- post/session-10.md
