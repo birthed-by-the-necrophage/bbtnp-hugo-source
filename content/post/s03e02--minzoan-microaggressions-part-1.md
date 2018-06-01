@@ -1,5 +1,5 @@
 +++
-date = "2018-06-01T13:59:18-04:00"
+date = "2018-06-01T16:15:00-04:00"
 title = "S03E03: Minzoan Microaggressions, part 1"
 type = ""
 
