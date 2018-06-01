@@ -16,6 +16,8 @@ The party has determined that Irtep is most likely hiding out in his tower, and 
 
 But first, the party meets Gynnen, a bard who says he helped Irtep build the _Pipes of Minzoa_, and thinks that Irtep has been cursed by Osgood Flumph. Gynnen gives the party a specialized _Scroll of Greater Restoration_ and asks that they find Irtep, use the scroll to remove the curse, and bring Irtep to Gynnen so that the two can sneak out of the city and live happily ever after. The party agrees, visions of a newly vacant wizard's tower dancing in their heads.
 
+![Irtep's Tower Map](/uploads/session-303-map.png)
+
 ## Stuff that happened on the way to the petri dish
 
 * Turns out the entrance to the tower is blocked by wizard-led group from the Royal Guard. Rather than fight it out in the streets, Flynn uses a new spell to _thunder step_ him and Marvus into the second floor of the tower. While the guards are distracted by the thunderclap, Marvus throws down a rope and an invisible Grymbok (ridden Master Blaster-style by an invisible Ovek) climbs up and through a window.
