@@ -1,5 +1,5 @@
 +++
-date = ""
+date = "2018-06-01T16:14:00-04:00"
 title = "S03E02: Tower Assault II"
 type = ""
 
