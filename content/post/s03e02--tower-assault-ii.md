@@ -10,7 +10,7 @@ _The Party infiltrates a tower and ends up in a petri dish._
 
 <!--more-->
 
-The party has determined that Irtep is most likely hiding out in his tower, and has accepted several competing commissions to enter the tower and retrive Irtep and/or certain items in his possession. The investigation phase is over- time to crawl a dungeon.
+The party has determined that Irtep is most likely hiding out in his tower, and has accepted several competing commissions to enter the tower and retrieve Irtep and/or certain items in his possession. The investigation phase is over- time to crawl a dungeon.
 
 But first, the party meets Gynnen, a bard who says he helped Irtep build the _Pipes of Minzoa_, and thinks that Irtep has been cursed by Osgood Flumph. Gynnen gives the party a specialized _Scroll of Greater Restoration_ and asks that they find Irtep, use the scroll to remove the curse, and bring Irtep to Gynnen so that the two can sneak out of the city and live happily ever after. The party agrees, visions of a newly vacant wizard's tower dancing in their heads.
 
