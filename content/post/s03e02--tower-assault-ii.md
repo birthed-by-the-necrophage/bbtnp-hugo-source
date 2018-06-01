@@ -19,7 +19,7 @@ But first, the party meets Gynnen, a bard who says he helped Irtep build the _Pi
 * SECOND FLOOR: The party disturbs and kills a mummy, which has already killed a previous tower infiltrator. Both bodies are looted. The floor also contains a bunch of crates labeled a soil or water samples. One of them is marked as "contagious."
 * THIRD FLOOR: Irtep's laboratory. Another dead thief is found (this one invisible) along with several "sextants" that are obviously microscopes.
 * FOURTH FLOOR: Irtep's bedroom/sex den and fancy bathroom. A journal is found that details Irtep's construction of the _Minzoa sextant_, his explorations of the "inner world" he refers to as Minzoa, and his eventual descent into gambling, drunkenness, and debt.
-* FIFTH FLOOR: Irtep's library, including his spell books. Flynn doesn't get a chance to investigate these before the entre-party is sucked into Irtep's trapped PETRI dish (get it?) and finds itself in the afore mentioned realm of Minzoa.
+* FIFTH FLOOR: Irtep's library, including his spell books. Flynn doesn't get a chance to investigate these before the entire party is sucked into Irtep's trapped PETRI dish (get it?) and finds itself in the afore mentioned realm of Minzoa.
 
 ## Foes Vanquished
 
