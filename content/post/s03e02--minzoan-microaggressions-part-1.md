@@ -8,6 +8,8 @@ _Session date: 05/05/2018, Kevin's house_
 
 _The party arrives in Minzoa and fights some monsters._
 
+<!--more-->
+
 The party finds itself shrunk down to microscopic size and trapped in Itrep's petri dish, a place Irtrep's journal referred to an Minzoa. Minzoa is wet and very humid. The ground is spongy, uneven, and covered by fungi. A lake is seen in the distance. 
 
 Before any further investigations can be made, the party is attacked by hideous protozoan monstrosities! (A Giant Hydrozoa and eight Protozoic Orbs)
