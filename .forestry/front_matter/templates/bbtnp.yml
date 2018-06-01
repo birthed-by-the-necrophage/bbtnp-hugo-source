@@ -18,6 +18,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- post/s03e02--minzoan-microaggressions-part-1.md
 - post/s03e02--tower-assault-ii.md
 - post/session-301--down-and-out-in-quodeth.md
 - post/s02e09--epilogue.md
