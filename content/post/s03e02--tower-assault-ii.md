@@ -20,7 +20,7 @@ But first, the party meets Gynnen, a bard who says he helped Irtep build the _Pi
 
 ## Stuff that happened on the way to the petri dish
 
-* Turns out the entrance to the tower is blocked by wizard-led group from the Royal Guard. Rather than fight it out in the streets, Flynn uses a new spell to _thunder step_ him and Marvus into the second floor of the tower. While the guards are distracted by the thunderclap, Marvus throws down a rope and an invisible Grymbok (ridden Master Blaster-style by an invisible Ovek) climbs up and through a window.
+* Turns out the entrance to the tower is blocked by wizard-led group from the Royal Guard. Rather than fight it out in the streets, Flynn uses a new spell to _thunder step_ him and Marvus into the second floor of the tower. While the guards are distracted by the thunderclap, Marvus throws down a rope and an invisible Grimbok (ridden Master Blaster-style by an invisible Ovek) climbs up and through a window.
 
 * FIRST FLOOR: Skipped entirely as a result of the teleport shenanigans. This deprives the party of a fun time with an old-school puzzle trap.
 
