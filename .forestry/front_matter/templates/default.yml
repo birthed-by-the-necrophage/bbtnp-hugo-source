@@ -32,5 +32,4 @@ fields:
   hidden: false
   default: true
 pages:
-- post/test.md
 - campaign-goals.md
