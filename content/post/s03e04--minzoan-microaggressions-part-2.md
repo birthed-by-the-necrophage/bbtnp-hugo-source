@@ -4,7 +4,7 @@ title = "S03E04: Minzoan Microaggressions, part 2"
 type = ""
 
 +++
-_Session date: 05/05/2018, Joel's house_
+_Session date: 06/02/2018, Joel's house_
 
 
 <!--more-->
