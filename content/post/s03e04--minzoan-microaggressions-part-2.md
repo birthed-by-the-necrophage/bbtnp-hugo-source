@@ -49,7 +49,7 @@ Okay... now what?
 
 * 1 protozoan orb
 * 7 giant sporozoans
-* 1 tardigrades
+* 1 tardigrade
 
 ## Loot Obtained
 
