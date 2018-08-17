@@ -11,6 +11,8 @@ Stuff (besides killing monsters) that will earn XP. The entire party earns XP wh
 
 ## Achieved!
 
+* S03E05: Find Irtep and get him to reveal the Carnifex's location
+* S03E05: Use Gynnen's scroll to cure Irtep
 * S03E01: Invent new occult technology (Flynn)
 * S03E01: Return to civilization with as much loot as possible
 * S02E09: Intimidate someone into aiding the party (Marvus)
@@ -27,7 +29,6 @@ Stuff (besides killing monsters) that will earn XP. The entire party earns XP wh
 
 ## In Progress
 
-* Find Itrep and get him to reveal the Carnifex's location
 * Retrieve 15,000 gp from Itrep for Fat Julie
 * Retrieve the _pipes of Minzoa_ from Itrep's tower for Faisal
 * Retrieve the _Minzoa Sextant Minzoa_ from Itrep's tower for Osgood
