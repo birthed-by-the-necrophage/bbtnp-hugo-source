@@ -11,9 +11,11 @@ Stuff (besides killing monsters) that will earn XP. The entire party earns XP wh
 
 ## Achieved!
 
+* Session 308: Free the Carnifex from her prison beneath Quodeth
 * S03E06: Retrieve 15,000 gp from Itrep for Fat Julie
 * S03E06: Retrieve the _pipes of Minzoa_ from Itrep's tower for Faisal
 * S03E06: Retrieve a crystal plate from Itrep's tower for Michalena
+* S03E06: Retrieve the _Minzoa Sextant Minzoa_ from Itrep's tower for Osgood
 * S03E05: Find Irtep and get him to reveal the Carnifex's location
 * S03E05: Use Gynnen's scroll to cure Irtep
 * S03E01: Invent new occult technology (Flynn)
@@ -32,10 +34,6 @@ Stuff (besides killing monsters) that will earn XP. The entire party earns XP wh
 
 ## In Progress
 
-* Retrieve 15,000 gp from Itrep for Fat Julie
-* Retrieve the _pipes of Minzoa_ from Itrep's tower for Faisal
-* Retrieve the _Minzoa Sextant Minzoa_ from Itrep's tower for Osgood
-* Free the Carnifex from her prison beneath Quodeth
 * Become an archmage (Flynn)
 * Achieve divinity (Marvus)
 * Be not evil (needs clarification)
@@ -43,5 +41,3 @@ Stuff (besides killing monsters) that will earn XP. The entire party earns XP wh
 * Save the party from a TPK (Marvus)
 * Find a _Folding Boat_
 * Donate to charity
-
-return-epiphany-westerfield-urth
