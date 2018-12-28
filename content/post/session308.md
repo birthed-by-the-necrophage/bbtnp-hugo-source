@@ -1,6 +1,6 @@
 +++
 date = "2018-12-27T14:00:00-04:00"
-title = "S03E08 : Jewels of the the Carnifex"
+title = "Session 308: Jewels of the the Carnifex"
 type = ""
 
 +++
