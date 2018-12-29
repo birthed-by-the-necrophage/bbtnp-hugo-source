@@ -25,7 +25,7 @@ The party has infiltrated the lost subterranean temple of the Carnifex, Goddess 
 
 * Unsure of how to proceed, Marvus prays to the Carnifex. He gets a cryptic response that doesn't turn out to be useful until much later in the session. 
 
-* Flynn, still invisible, heads back to the main room (area 3) to spy on the Sons of the Pious. 
+* Flynn, still invisible, heads back to the main room (area 3) to spy on the SOPs. 
 
 * Marvus disregards dungeon crawling best practice and tries to grab a _Jewel_ from the claws of the statue. He fails his save as the claws snap shut and sever all but his middle finger from his right hand. This makes him sad.
 
