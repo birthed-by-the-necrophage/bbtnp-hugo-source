@@ -11,6 +11,7 @@ Stuff (besides killing monsters) that will earn XP. The entire party earns XP wh
 
 ## Achieved!
 
+* Session 403: Obtain a _spelljamming helm_
 * Session 308: Free the Carnifex from her prison beneath Quodeth
 * S03E06: Retrieve 15,000 gp from Itrep for Fat Julie
 * S03E06: Retrieve the _pipes of Minzoa_ from Itrep's tower for Faisal
