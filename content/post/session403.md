@@ -19,7 +19,7 @@ Acting on a tip from some space dragon kiddos, the party has decided to loot a h
 
 ## Session Notes
 
-* The party parks the bubble car a ways away from the spelljamer and approches on foot. The spelljammer has a vaguely fishy-themed design and is laying at an angle in a pool of black liquid. The pool surrounds a hole smashed in its hull.
+* The party parks the bubble car a ways away from the spelljamer and approaches on foot. The spelljammer has a vaguely fishy-themed design and is laying at an angle in a pool of black liquid. The pool surrounds a hole smashed in its hull.
 
 * Grimbok can sense undead now. He does so and detects 16 undeadforms aboard the spelljammer. He's also supposed to be able to identify the "type" of undead, but it didn't work because what does that really even mean from an in-character perspective?
 
