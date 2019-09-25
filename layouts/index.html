@@ -1,45 +1,29 @@
-{{ define "schema-dot-org" }}
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "Blog",
-  {{- /* Google recommends the headline be no more than 110 characters */}}
-  "headline": "{{ substr .Site.Title 0 110 }}",
-  "url" : "{{ printf "%s" .Permalink }}",
-  "author": {
-    "@type": "Person",
-    "name": "{{ .Site.Params.author }}"
-  },
-  {{- $ISO8601 := "2006-01-02T15:04:05-07:00" }}
-  {{- if not .Date.IsZero }}
-  "dateModified": "{{ .Date.Format $ISO8601 }}",
-  {{- end }}
-  {{- with .Site.Social.GooglePlus }}
-  "publisher": "{{ printf "%s" . }}",
-  {{- end }}
-  {{- /* all of the site's categories/tags, from Hugo's tpl/template_embedded.go */}}
-  "keywords": "{{ range $plural, $terms := .Site.Taxonomies }}{{ range $term, $val := $terms }}{{ printf "%s," $term }}{{ end }}{{ end }}"
-  {{- with .Site.Params.description -}}
-  ,
-  "description": "{{- . -}}"
-  {{- end }}
-}
-</script>
-{{ end }}
-
 {{ define "main" }}
+    <main aria-role="main">
+      <header class="homepage-header">
+        <h1>{{.Title}}</h1>
+        {{ with .Params.subtitle }}
+        <span class="subtitle">{{.}}</span>
+        {{ end }}
+      </header>
+      <div class="homepage-content">
+        <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
+        {{.Content}}
+      </div>
+      <div>
+        <!-- Note that .Pages is the same as .Site.RegularPages on the homepage template. -->
 
 {{ $truncate := default true .Site.Params.truncate }}
-{{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
+{{ $paginator := .Paginate (where .Site.RegularPages "Type" "post") }}
 {{ range $paginator.Pages }}
-<p>list list list</p>
 {{ if $truncate }}
 {{ .Render "summary" }}
 {{ else }}
 {{ .Render "content" }}
 {{ end }}
 {{ end }}
-
+        
+        
 {{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
 <nav class="blog-pagination">
   {{ if and (.Paginator.HasPrev) (.Paginator.HasNext) }}
@@ -56,7 +40,7 @@
   {{ end }}
 </nav>
 {{ end }}
-
+        
+      </div>
+    </main>
 {{ end }}
-
-{{- /* vim: set ts=2 sw=2 et: */}}
