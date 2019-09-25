@@ -32,7 +32,6 @@
 {{ $truncate := default true .Site.Params.truncate }}
 {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
 {{ range $paginator.Pages }}
-<p>list list list</p>
 {{ if $truncate }}
 {{ .Render "summary" }}
 {{ else }}
