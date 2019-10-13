@@ -37,9 +37,9 @@ _Session date: 09/28/2019, Kevin's house_
 
 * Flynn sets course for a Quodeth flyover, and the deed is accomplished with four blasts from the _disintegration ray_. Flumph Tower and it's grounds are reduced to a fine dust, but the party doesn't know for sure if Osgood Flumph was actually home at the time. The neighborhoods around Flumph Tower  are treated to generous applications of the _charm ray_, with hope that this will cause any witnesses to have a favorable impression of the building-destroying UFO. 
 
-* The asteroid is landed in the ocean, positioned with the dome facing up and obelisks pointing outward. The water level is just high enough so that the astroid can rest on the ocean floor without submerging the obelisks or the entrance crevice. [Note: the interior of the astroid has, so far, retained its weird internal gravitational schemes, but the surface of the now functions under normal planetary gravity.]
+* The asteroid is landed in the ocean, positioned with the dome facing up and obelisks pointing outward. The water level is just high enough so that the astroid can rest on the ocean floor without submerging the obelisks or the entrance crevice. [Note: the interior of the astroid has, so far, retained its weird internal gravitational schemes, but the surface now functions under normal planetary gravity.]
 
-
+* The 
 
 
 ## Foes Vanquished

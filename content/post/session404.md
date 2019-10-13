@@ -36,7 +36,7 @@ The party has "evicted" the occupants and taken possession the _Defiance_, a wre
 
 * Grimbok starts to worry that Lucan might be planning to betray them.
 
-* The tunnel ends at a huge circular door with a cheesy message on it:
+* The tunnel ends at a huge circular door with a cheesy message on it from someone called the Arcane. The message says that the astroid was built as a weapon for beholders by the Arcane, but they also built this backdoor the beholders can't open, so that heroes could come in and destroy the "Queens Eyes" to disable it. 
 
 * Lucan says the Arcane are a secretive race who build stuff like this and sell it. Marvus says he'd like to meet them.
 
@@ -64,11 +64,11 @@ The party has "evicted" the occupants and taken possession the _Defiance_, a wre
 
 * Into the astroid, turning left, and travel until reaching a branching passage. Ovek's Air Elemental follows the bubble car.
 
-* Check out the branch to the right, where a stone hits the bubble car and temporarily changes part of it to stone. It's a huge area lined with scrub land and canyons inhabited by hill giant goat herders.
+* The party checks out the tunnel branch to the right. It's a vast, curved, tubular area, lit by a giant floating crystal. There is an exit tunnel directly across the tube from the entrance (1 kilometer away.)  Scrubland and canyons cover the surface of the tube, which seems to be inhabited by by hill giant goatherds. A rock slams into bubble car. It isn't large enough to do damage, but the area around the impact site temporarily turns stone. The party decides to go elsewhere. 
 
-* Check out the branch to left, which leads into what appears to be interior of one of the obelisks. The obelisk is capped by transparent crystal but otherwise empty.
+* The left tunnel branch leads into what appears to be interior of one of the obelisks. The obelisk is capped by transparent crystal but otherwise empty. The party can see the several space-behl
 
-* Back to the main tunnel and travel to the next branch. To the left is presumably another obelisk. The right leads to another huge room. This one is empty except for huge rocks (much larger than the ricks in the other room) bouncing back and forth breakout-style.
+* Back to the main tunnel and travel to the next branch. To the left is presumably another obelisk. The right leads to another huge room, also lit by a huge floating crystal. This one is empty except for huge rocks (much larger than the r0cks in the other room) bouncing back and forth breakout-style. Ovek sends his air elemental in to in investigate, but the part ultimately decides that is something they don't really want to fuck with. 
 
 
 
