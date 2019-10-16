@@ -48,6 +48,8 @@ _Session date: 08/03/2019, Kevin's house_
 
 ## Foes Vanquished
 
+
+
 ## Loot obtained
 
 ## Goals Achieved
