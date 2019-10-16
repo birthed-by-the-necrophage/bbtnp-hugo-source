@@ -13,21 +13,27 @@ _Session date: 09/28/2019, Kevin's house_
 
 ## Previously On
 
+Jon Tobart is defeated, and Flynn just took control of the asteroid and used it to destroy the beholder fleet.
+
 ## Session Notes
 
-* Eyes of the asteroid function as 300ft wide beholder rays, no dex save.
+* The astroid, being an ancient evil artifact, quickly corrupts and absorbs Flynn mind, compelling him to do nothing except use the astroid's "eyes" to carry out personal vendettas. He prepares to find and destroy Quodeth, as revenge for not being invited to join the wizard council. Grimbok knocks him out of it with a cantrip, granting a new save. Grimbok also generously provides a +5 bonus. Flynn makes it.
 
-* Flynn used the disintegration ray to destroy the beholder fleet.
+* (By the way, the eyes of the asteroid function as 300ft wide beholder rays, with no dex save unless the target creature is itself at least 300ft wide (other saves still apply.) There is no central eye. When Flynn destroyed the beholder fleet, it wasn't specified, but he was probably using the disintegration ray.)
 
-* The astroid takes control of Flynn. He prepares to find and destroy Quodeth, as revenge for not being invited to join the wizard council. Grimbok knocks him out of it with a cantrip, granting a new save. Grimbok also generously provides a +5 bonus. Flynn makes it.
+* Flynn realizes that if he withdraws from controlling the astroid, it will revert to its unarmed state, and the party lacks the knowledge/means to reactivate it. Maybe Jon Tobart left his research on the matter in his tower?
 
-* Flynn realizes that if he withdraws from controlling the astroid, it will revert to it's unarmed state, and the party lacks the knowledge/means to reactivate it. Maybe Jon Tobart left his research on the matter in his tower?
+* Flynn sets course to pilot the astroid back to the greater Quodeth area. It seems to be okay operating within a planetary atmosphere and gravitational field. The trip takes three days.
 
-* Flynn pilots the astroid back to the greater Quodeth area. It seems to be okay operating within a planetary atmosphere and gravitational field. The trip takes three days, and party gets a view of their planet's continents on the way.
+* On the way, party gets a view of their planet's continents. It looks something like this:
 
-* Also on the way, the party discusses the best place to land the astroid. The mountains north of Quodeth are considered, but the the ocean a bit south of Quodeth is eventually settled on.
+![World View From Space](/uploads/middle_jurassic_earth_by_kexitt_dcbvdat.jpg)
 
-* But first, the party wants to blow something up with their doomsday weapon. Marvus reaches far back into campaign setting lore and suggests the sentient glacier that is slowly engulfing Thule, but then realizes that it's too far away from Quodeth and he probably doesn't actually know about it.
+[Image Source](https://www.deviantart.com/kexitt/art/Middle-Jurassic-Earth-745533461)
+
+* Also on the way, the party discusses the best place to land the astroid. The mountains north of Quodeth are considered, but the the ocean a bit south is eventually settled on.
+
+* But first, the party wants to blow something up with their doomsday weapon. Marvus reaches far back into campaign setting lore and suggests the sentient glacier that is slowly engulfing Thule, but then realizes that it's too far away from Quodeth, and actually he might not even know about it.
 
 * So maybe that castle on the island below Quodeth? Or maybe the artifact was actually on to something, and they should destroy the Quodeth Wizard Council for snubbing Flynn.
 
@@ -41,7 +47,7 @@ _Session date: 09/28/2019, Kevin's house_
 
 * The asteroid is landed in the ocean, positioned with the dome facing up and obelisks pointing outward. The water level is just high enough so that the astroid can rest on the ocean floor without submerging the obelisks or the entrance crevice. [Note: the interior of the astroid has, so far, retained its weird internal gravitational schemes, but the surface now functions under normal planetary gravity.]
 
-* Flynn relinquishes control of the astroid and it reverts to it's unarmed status- the lasers stop as the platforms, the central crystal, and the eye crystals all return to their previous positions.
+* Flynn relinquishes control of the astroid and it reverts to it's unarmed status: the lasers stop as the platforms, the central crystal, and the eye crystals all return to their previous positions.
 
 * Now the party has to figure out how to get themselves and their _spelljaming furnace_ back to Quodeth. It can in theory be used to power the bubble car, but there isn't a good way to secure it to the exterior, and it gets too hot to be in the passenger area.
 
@@ -55,7 +61,7 @@ _Session date: 09/28/2019, Kevin's house_
 
 * The Party (minus Ovek) heads directly to Tobart Tower to check out their new real estate acquisition. Ovek drives the bubble car back to Irtep Tower to park it and check in with the butler. All is well at Irtep Tower, but it doesn't actually have aplace to park a bubble car. He instead parks on the roof of Tobart Tower, meeting up with the rest of the party.
 
-Thus ends the party's (first?) adventure in space.
+THUS ENDS THE PARTY'S (FIRST?) ADVENTURE IN SPACE.
 
 ## Foes Vanquished
 

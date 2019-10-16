@@ -13,42 +13,56 @@ _Session date: 08/03/2019, Kevin's house_
 
 ## Previously On
 
+The party has finally mades it way to the interior of the asteroid, and is exploring a tunnel system that connects to the astroid's obelisks and a series of giant, oddly-shaped rooms with weird stuff going on inside.
+
 ## Session Notes
 
-* Party assesses the situation, decides that each obelisk and corresponding room represent a specific beholder eye power.
+* Based on what they've seen so far, the party concludes that each obelisk and corresponding room represent a specific beholder eye-ray. If this is true, the tunnels on the other side of the rooms must lead to the equivalent some sort of the "central eye" room.
 
-* The tunnels on the other side of the rooms must lead to the equivalent of the central eye. Party decides to head straight there and not bother with the individual rooms.
+* There must be eight more eye-ray rooms, but Party is not interested in checking them out, and is also not interested with interacting further with the two rooms they've seen. They decide to head straight to central eye room.
 
-* THe decide to travl through the hill giant goat-herder room. Travel is not in a straigh line because the bubble car can't rise higher then 100 ft (30.48 meters) above the "walls" of the room.
+* The party travels through the hill giant goatherd room to get to the tunnel on its other side. Travel is not in a straight line, because the bubble car can't rise higher then 100 ft (30.48 meters) above the "walls" of the room.
 
-* Pass a group of stone giants fighter medusas along the way. Decide no to get involved.
+* Along the way, the party passes a group of hill giants fighting medusa. They don't stop to investigate.
 
-* See a big suit of metal armor posistioned by the exit tunnel.
+* Positioned by the exit tunnel is a 15 foot tall suit of armor, holding a trident.
 
-* Arrive at the central chamber. It's a big sphere and has clouds. There's a decahedron shaped crystal at the top. The surface is covered by dead vegitation and giant panels of some sort.
+* The exit tunnel does indeed lead to a huge spherical central chamber. It's so big that it has clouds. There's a decahedron shaped crystal at the top (or, from the Party's initial perspective, the side.) The surface is covered by dead vegetation and giant panels of some sort.
 
-* Jon Tobart is spotted standing atop the crystal, monologues. He's wearing a suit of armor like the one the party saw earlier, Krang-stye, except that an armor panel covers his face. After his monologue he disappears to the interior of the crystal.
+* Jon Tobart is spotted standing atop the crystal (even though he's almost a mile away?) He's wearing a suit of armor like the one the party saw earlier, Krang-stye, except that an armor panel covers his face. He monologues for a bit and then disappears to the interior of the crystal.
 
-* Jon Tobart does something that activates the room. The crystal starts moving toward the center of the room, the panels start rising toward it.
+* Jon Tobart then does something that "activates" the room and maybe the entire astroid. The crystal starts moving toward the center of the room, and the panels start rising toward it.
 
-* The party parks the bubble car on one of the panels and rides along with it for a bit, and then fly (Marvus carrying Flynn and Grimbok) or teleport (Grimbok) the rest of the way to they crystal.  
+* The party parks the bubble car on one of the panels and rides along with it for a bit, and then flys (Marvus carrying Flynn and Grimbok) or teleports (Grimbok) the rest of the way to the crystal.  
 
 * When crystal reaches the center of the sphere, lasers shoot from the eye-stalk tunnels, through the planels, and into the crystal. The panels join together to form a sphere around the crystal. 
 
-* The parry enters the crystal through a tunnel at one of the tips. The tunnel leads to a smaller interior decahedron. Jon Tobart is here in his Krang-suit.
+* The parry enters the interior of the crystal through a tunnel at one of the tips. The tunnel leads to a decahedron-shaped room. Jon Tobart is here in his Krangsuit.
 
-* Battle!
+## BATTLE
 
+* The decahedron-shaped room has gravity pulling "down" on all of it facets, making for a confusing battleground. 
 
+* The lasers shooting into the crystal allow Jon Tobart to direct a random beholder eye-ray attack at anyone in the room once per round. His armor gives him the effects of a _globe of invulnerability_, and immunity to non-magical weapons. His trident has 15ft reach and does paralyzing poison damage.
 
+* This effectively shuts down Ovek and Flynn out of the battle because they can't cast (or manifest) 6th level spells (powers.) to get past the _globe_. They retreat to the tunnel. 
 
+* Ovek summons another air elemental, but it can't do anything with its non-magical slams.
 
+* Grimbok has his own _globe of invulnerability_ (good to know), but it turns out to not matter in this battle because no spells are cast.
 
+* With Ovek and Flynn out of the battle, Grimbok and Marvus are left to melee it out and absorb all of Jon Tobart's attacks. Flynn pops in a few times to do some healing.
 
+* When Grimbok and Marvus have done enough damage to disable the armor, it falls prone with Jon Tobart still inside. Flynn takes this opportunity to rush in and stab Jon Tobart through an eye-slit with a _bolt of beholder slaying_, killing him.
+
+* Not content with just parachuting in at the end of the battle to steal the glory, Flynn goes on to assume mental control of the (now pilotless) astroid apparatus that Jon Tobart has activated. 
+
+* Flynn's consciousness now encompasses the astroid itself, and is able to "see" though the obelisks and use them the same way a beholder uses its eyestalks. His first order of business is to address the beholder fleet, which is still waiting outside the astroid. Second order of business blast it away with his eyestalks. The puny spaceships cannot resist the might of Beholder Astroid Flynn!
 
 ## Foes Vanquished
 
-
+* Job Tobart
+* The beholder fleet
 
 ## Loot obtained
 
