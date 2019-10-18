@@ -1,19 +1,18 @@
 +++
 date = "2019-09-25T14:00:00-04:02"
-title = "Session 404:"
+title = "Session 404: The Queen's Eyes"
 type = ""
 
 +++
 
 _Session date: 06/29/2019, Dave's house_
 
-![Session 404 Map](/uploads/session_404_map.png)
-
-<!--more-->
 
 ## Previously On
 
 The party has "evicted" the occupants and taken possession the _Defiance_, a wrecked spelljammer with a shattered _spelljamming helm_.
+
+<!--more-->
 
 ## Session Notes
 
@@ -53,7 +52,7 @@ The party has "evicted" the occupants and taken possession the _Defiance_, a wre
 
 * The air and fire elemental then proceed to ruin the DMs fun by soaking up all the cool monster attacks.
 
-* Though Flynn and Marvus do both get paralyzed by beholder rays, though.
+* Grimbok and Marvus do both get paralyzed by beholder rays, though.
 
 * Grimbok lobs fireballs.
 
@@ -63,13 +62,15 @@ The party has "evicted" the occupants and taken possession the _Defiance_, a wre
 
 ### Into the asteroid, finally
 
-* Back in the bubble car, the party enters the tunnel and travels in the leftward direction, eventually reaching a four-way intersection with another tunnel. Ovek's Air Elemental follows the bubble car.
+![Session 404 Map](/uploads/session_404_map.png)
 
-* The party checks out the tunnel branch to the right. It leads to a vast, curved, tubular area, lit by a giant floating crystal. There is an exit tunnel directly across the tube from the entrance (About 1.8 kilometers away.)  Scrubland and canyons cover the interior surface of the tube, and it appears to be inhabited by by hill giant goatherds. A rock slams into bubble car. It isn't large enough to do damage, but the area around the impact site temporarily turns to stone. The party decides to go elsewhere. 
+* Back in the bubble car, the party enters the tunnel and travels in the leftward direction, eventually reaching a four-way intersection with another tunnel. Ovek's air elemental follows the bubble car.
 
-* The left tunnel branch leads into what appears to be interior of one of the obelisks. The obelisk is capped by transparent crystal but otherwise empty. The party can see that several space-beholder spaceships are indeed waiting for them outside the asteroid.
+* The party checks out the tunnel branch to the right. It leads to a vast, curved, tubular area, lit by a giant floating crystal. There is an exit tunnel directly across the tube from the entrance (about 1.8 kilometers away).  Scrubland and canyons cover the interior surface of the tube, and it appears to be inhabited by by stone giant goatherds. A rock slams into bubble car. It isn't large enough to do damage, but the area around the impact site temporarily turns to stone. The party decides to go elsewhere. 
 
-* The party returns to the main tunnel, and travels until they reach another intersection. To the left is presumably another obelisk. The right leads to another huge room, also lit by a huge floating crystal, and with an exit tunnel on the other side.  This room is is a half-hemisphere with rune covered walls. It's empty except for boulders bouncing back and forth, Breakout style. The boulders, unlike the rocks in the hill giant goat herd room, are plenty large enough to do significant damage to the bubble car. Ovek sends his air elemental in to in investigate, but the party ultimately decides that this isn't something they really want to fuck with right now.
+* The left tunnel branch leads into what appears to be interior of one of the obelisks. The obelisk is capped by transparent crystal but otherwise empty. The party can see that several space-beholder spaceships are, as promised, waiting for them outside the asteroid.
+
+* The party returns to the main tunnel, and travels until they reach another intersection. To the left is presumably another obelisk. The right leads to another huge room, also lit by a huge floating crystal, and with an exit tunnel on the other side.  This room is is a half-hemisphere with rune covered walls. It's empty except for boulders bouncing back and forth, breakout-style. The boulders, unlike the rocks in the stone giant goatherd room, are plenty large enough to do significant damage to the bubble car. Ovek sends his air elemental in to in investigate, but the party ultimately decides that this isn't something they really want to fuck with right now.
 
 ## Foes Vanquished
 

@@ -35,6 +35,7 @@ Stuff (besides killing monsters) that will earn XP. The entire party earns XP wh
 
 ## In Progress
 
+* Learn how to reactivate the astroid (Flynn)
 * Become an archmage (Flynn)
 * Achieve divinity (Marvus)
 * Be not evil (needs clarification)
