@@ -11,6 +11,7 @@ Stuff (besides killing monsters) that will earn XP. The entire party earns XP wh
 
 ## Achieved!
 
+* Session 501: Learn a new scent (Marvus)
 * Session 403: Obtain a _spelljamming helm_
 * Session 308: Free the Carnifex from her prison beneath Quodeth
 * S03E06: Retrieve 15,000 gp from Itrep for Fat Julie
@@ -35,6 +36,21 @@ Stuff (besides killing monsters) that will earn XP. The entire party earns XP wh
 
 ## In Progress
 
+* Explore and clear Tobart Tower
+* Kill five opponents in one round (Marvus)
+* Please Carnifex (Grimbok)
+* Decapitate an opponent with the razor disc gun (Marvus)
+* Learn a spell from every class list (Flynn)
+* Experience 10 new scents (Marvus)
+* Build a zip-line transportation system (Ovek)
+* Learn to build bubble cars (Flynn)
+* Join the wizard council and rise in influence (Flynn)
+* Build a giant furnace to power the astroid
+* Obtain a third tower
+* Increase influence in the city
+* Build a spelljammer
+* Avoid going back to space (Grimbok)
+* Get new Eld armor (Marvus)
 * Learn how to reactivate the astroid (Flynn)
 * Become an archmage (Flynn)
 * Achieve divinity (Marvus)
