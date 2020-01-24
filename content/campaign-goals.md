@@ -36,6 +36,11 @@ Stuff (besides killing monsters) that will earn XP. The entire party earns XP wh
 
 ## In Progress
 
+* Kill 10 opponents in one round (Ovek)
+* Go back to space (Marvus)
+* Get a one-shot kill (Grimbok)
+* Craft a flesh golem (Flynn)
+* Turn the galley into a flying party boat
 * Explore and clear Tobart Tower
 * Kill five opponents in one round (Marvus)
 * Please Carnifex (Grimbok)
